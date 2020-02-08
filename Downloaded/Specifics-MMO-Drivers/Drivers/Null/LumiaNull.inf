@@ -1,0 +1,140 @@
+;
+; LumiaNull.inf
+;
+
+[Version]
+Signature   = "$WINDOWS NT$"
+Class       = System
+ClassGuid   = {4d36e97d-e325-11ce-bfc1-08002be10318}
+Provider    = %ManufacturerName%
+CatalogFile = LumiaNull.cat
+DriverVer   = 10/06/2018,18.13.19.793
+
+[DestinationDirs]
+DefaultDestDir = 12
+
+[SourceDisksNames]
+1 = %DiskName%,,,""
+
+[SourceDisksFiles]
+LumiaNull.sys = 1,,
+
+[Manufacturer]
+%ManufacturerName% = Standard,NTARM64
+
+[Standard.NTARM64]
+%TouchTestNull.DeviceDesc%  = LumiaNull_Device, {1ED875DA-D851-42BE-9DFD-527D97178147}\TOUCH_TEST
+%TouchTestNull.DeviceDesc%  = LumiaNull_Device, {1ed875da-d851-42be-9dfd-527d97178147}\Touch_Test
+
+%TouchNull.DeviceDesc%      = LumiaNull_Device, {3A0AC59A-4D8A-4875-B7EA-304771FF9B9A}\NOKIATOUCH
+%TouchNull.DeviceDesc%      = LumiaNull_Device, {3a0ac59a-4d8a-4875-b7ea-304771ff9b9a}\NokiaTouch
+
+%NokiaAttsNull.DeviceDesc%  = LumiaNull_Device, ACPI\NOKIA_ATTS
+%OddtRegNull.DeviceDesc%    = LumiaNull_Device, ACPI\ODDT_REG
+%OddtVibNull.DeviceDesc%    = LumiaNull_Device, ACPI\ODDT_VIB
+%OddtCpuNull.DeviceDesc%    = LumiaNull_Device, ACPI\ODDT_CPU
+%EnoGpioNull.DeviceDesc%    = LumiaNull_Device, ACPI\ENOGPIO
+%EnoEmNull.DeviceDesc%      = LumiaNull_Device, ACPI\NOKIA_ENOEM
+%WPCrasherNull.DeviceDesc%  = LumiaNull_Device, ACPI\WP_CRASHER
+
+%1001Null.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW1001
+%1002Null.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW1002
+%1006Null.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW1006
+%1007Null.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW1007
+%1008Null.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW1008
+%1009Null.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW1009
+%100CNull.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW100C
+%100DNull.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW100D
+%1010Null.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW1010
+%1011Null.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW1011
+%1014Null.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW1014
+%1015Null.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW1015
+%1019Null.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW1019
+%101CNull.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW101C
+%101DNull.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW101D
+%101ENull.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW101E
+%101FNull.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW101F
+%1020Null.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW1020
+%1021Null.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW1021
+%1024Null.DeviceDesc%       = LumiaNull_Device, ACPI\MSHW1024
+
+%2434Null.DeviceDesc%       = LumiaNull_Device, ACPI\QCOM2434
+%2436Null.DeviceDesc%       = LumiaNull_Device, ACPI\QCOM2436
+%2439Null.DeviceDesc%       = LumiaNull_Device, ACPI\QCOM2439
+
+[LumiaNull_Device.NT]
+CopyFiles = Drivers_Dir
+
+[Drivers_Dir]
+LumiaNull.sys
+
+[LumiaNull_Device.NT.Services]
+AddService = LumiaNull,%SPSVCINST_ASSOCSERVICE%, LumiaNull_Service_Inst
+
+[LumiaNull_Service_Inst]
+DisplayName   = %LumiaNull.SVCDESC%
+ServiceType   = 1               ; SERVICE_KERNEL_DRIVER
+StartType     = 3               ; SERVICE_DEMAND_START
+ErrorControl  = 1               ; SERVICE_ERROR_NORMAL
+ServiceBinary = %12%\LumiaNull.sys
+
+[LumiaNull_Device.NT.Wdf]
+KmdfService = LumiaNull, LumiaNull_wdfsect
+
+[LumiaNull_wdfsect]
+KmdfLibraryVersion = 1.15
+
+[Strings]
+SPSVCINST_ASSOCSERVICE   = 0x00000002
+ManufacturerName         = "LumiaWoA authors"
+DiskName                 = "LumiaNull Installation Disk"
+LumiaNull.DeviceDesc     = "LumiaNull Device"
+LumiaNull.SVCDESC        = "LumiaNull Service"
+
+;
+; Touch test interfaces
+;
+TouchTestNull.DeviceDesc = "Touch Driver Test Interface Device (Null)"
+TouchNull.DeviceDesc     = "Touch Driver Interface Device (Null)"
+
+;
+; Unavailable Nokia Mobile Oy (NMO) drivers
+;
+NokiaAttsNull.DeviceDesc = "Nokia ATTS Device (Null)"
+OddtRegNull.DeviceDesc   = "Nokia Care Diagnostic ODDT Register Device (Null)"
+OddtVibNull.DeviceDesc   = "Nokia Care Diagnostic ODDT Vibration Device (Null)"
+OddtCpuNull.DeviceDesc   = "Nokia Care Diagnostic ODDT CPU Device (Null)"
+EnoGpioNull.DeviceDesc   = "Nokia Care Diagnostic ENO GPIO Device (Null)"
+EnoEmNull.DeviceDesc     = "Nokia Care Diagnostic ENO EM Device (Null)"
+WPCrasherNull.DeviceDesc = "Nokia Windows Phone Crasher Device (Null)"
+
+;
+; Unavailable Microsoft Mobile Oy (MMO) drivers
+;
+1001Null.DeviceDesc      = "mmo security driver (Null)"
+1002Null.DeviceDesc      = "Origa2Auth Device (Null)"
+1006Null.DeviceDesc      = "ice5lp_2k Device (Null)"
+1007Null.DeviceDesc      = "HDMI to Displayport driver (Null)"
+1008Null.DeviceDesc      = "Microsoft Eno gpio Driver (Null)"
+1009Null.DeviceDesc      = "Type C MUX port driver (Null)"
+100CNull.DeviceDesc      = "Stub Driver (100C) (Null)"
+100DNull.DeviceDesc      = "Stub Driver (100D) (Null)"
+1010Null.DeviceDesc      = "Icaros Extra Sensory Perception Driver (Null)"
+1011Null.DeviceDesc      = "Icaros_KMD_ESP_Thermal Device (Null)"
+1014Null.DeviceDesc      = "Stub Driver (1014) (Null)"
+1015Null.DeviceDesc      = "hall_kmd Device (Null)"
+1019Null.DeviceDesc      = "MMO VisaST Device (Null)"
+101CNull.DeviceDesc      = "MMO Activity Detection driver (Null)"
+101DNull.DeviceDesc      = "MMO Step Counter driver (Null)"
+101ENull.DeviceDesc      = "MMO Gesture Recognition driver (Null)"
+101FNull.DeviceDesc      = "Sensor Algorithm Control driver (Null)"
+1020Null.DeviceDesc      = "Activity Driver (Null)"
+1021Null.DeviceDesc      = "Pedometer Driver (Null)"
+1024Null.DeviceDesc      = "touch_power Device (Null)"
+
+;
+; Unavailable Qualcomm drivers for Microsoft Mobile Oy (MMO) devices
+;
+2434Null.DeviceDesc       = "Qualcomm Camera Rear Sensor Driver (Null)"
+2436Null.DeviceDesc       = "Qualcomm Camera Tertiary Sensor Driver (Null)"
+2439Null.DeviceDesc       = "Qualcomm Camera Front Sensor Driver (Null)"

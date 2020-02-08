@@ -1,0 +1,751 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memcpy.obj)
+                              /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memcpy)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memset.obj)
+                              /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memset)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (_ModuleEntryPoint)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Bus/Scsi/ScsiDiskDxe/ScsiDiskDxe/OUTPUT/ScsiDisk.lib(AutoGen.obj)
+                              DriverEntryPoint.obj (symbol from plugin) (ProcessLibraryConstructorList)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Bus/Scsi/ScsiDiskDxe/ScsiDiskDxe/OUTPUT/ScsiDisk.lib(ScsiDisk.obj)
+                              AutoGen.obj (symbol from plugin) (InitializeScsiDisk)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Bus/Scsi/ScsiDiskDxe/ScsiDiskDxe/OUTPUT/ScsiDisk.lib(ComponentName.obj)
+                              ScsiDisk.obj (symbol from plugin) (gScsiDiskComponentName)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              ScsiDisk.obj (symbol from plugin) (SwapBytes64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              ScsiDisk.obj (symbol from plugin) (SwapBytes32)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              ScsiDisk.obj (symbol from plugin) (SwapBytes16)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              ScsiDisk.obj (symbol from plugin) (MultU64x32)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              ScsiDisk.obj (symbol from plugin) (InitializeListHead)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              ScsiDisk.obj (symbol from plugin) (WriteUnaligned16)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              SwapBytes64.obj (symbol from plugin) (InternalMathSwapBytes64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              Unaligned.obj (symbol from plugin) (RShiftU64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              Unaligned.obj (symbol from plugin) (LShiftU64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+                              ScsiDisk.obj (symbol from plugin) (ZeroMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+                              ScsiDisk.obj (symbol from plugin) (CopyMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+                              ZeroMemWrapper.obj (symbol from plugin) (InternalMemZeroMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+                              ScsiDisk.obj (symbol from plugin) (CopyGuid)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+                              CopyMemWrapper.obj (symbol from plugin) (InternalMemCopyMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+                              MemLibGeneric.obj (symbol from plugin) (InternalMemSetMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib(DebugLib.obj)
+                              AutoGen.obj (symbol from plugin) (BaseDebugLibSerialPortConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              ScsiDisk.obj (symbol from plugin) (AllocateAlignedPages)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiRuntimeServicesTableLibConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              ScsiDisk.obj (symbol from plugin) (DevicePathType)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              DevicePathUtilities.obj (symbol from plugin) (GetDevicePathSize)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertDeviceNodeToText)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertTextToDeviceNode)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiBootServicesTableLibConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+                              ScsiDisk.obj (symbol from plugin) (EfiLibInstallDriverBindingComponentName2)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiLibConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib(HobLib.obj)
+                              AutoGen.obj (symbol from plugin) (HobLibConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiScsiLib/UefiScsiLib/OUTPUT/UefiScsiLib.lib(UefiScsiLib.obj)
+                              ScsiDisk.obj (symbol from plugin) (ScsiTestUnitReadyCommand)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              DebugLib.obj (symbol from plugin) (CpuDeadLoop)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              DevicePathFromText.obj (symbol from plugin) (StrnLenS)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              DevicePathFromText.obj (symbol from plugin) (StrLen)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+                              DebugLib.obj (symbol from plugin) (CpuBreakpoint)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              SafeString.obj (symbol from plugin) (DivU64x32)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+                              DebugLib.obj (symbol from plugin) (SetMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+                              SetMemWrapper.obj (symbol from plugin) (SetMem64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              DebugLib.obj (symbol from plugin) (GetDebugPrintErrorLevel)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/FrameBufferSerialPortLib/FrameBufferSerialPortLib/OUTPUT/FrameBufferSerialPortLib.lib(FrameBufferSerialPortLib.obj)
+                              DebugLib.obj (symbol from plugin) (SerialPortInitialize)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              DevicePathToText.obj (symbol from plugin) (UnicodeVSPrint)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              PrintLib.obj (symbol from plugin) (BasePrintLibConvertValueToString)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              PrintLibInternal.obj (symbol from plugin) (DivU64x32Remainder)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                              FrameBufferSerialPortLib.obj (symbol from plugin) (ArmGetInterruptState)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                              FrameBufferSerialPortLib.obj (symbol from plugin) (ArmEnableInterrupts)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmCacheMaintenanceLib/ArmCacheMaintenanceLib/OUTPUT/ArmCacheMaintenanceLib.lib(ArmCacheMaintenanceLib.obj)
+                              FrameBufferSerialPortLib.obj (symbol from plugin) (WriteBackInvalidateDataCacheRange)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLib.obj)
+                              ArmCacheMaintenanceLib.obj (symbol from plugin) (ArmDataCacheLineLength)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                              ArmCacheMaintenanceLib.obj (symbol from plugin) (ArmInvalidateDataCacheEntryByMVA)
+
+Discarded input sections
+
+ .text          0x0000000000000000       0x10 /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .text          0x0000000000000000        0x0 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x8 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.StrnLenS
+                0x0000000000000000       0x7c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.__memset
+                0x0000000000000000       0x1c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.__memcpy
+                0x0000000000000000       0x20 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.StrnLenS.str1.1
+                0x0000000000000000       0x5e /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x2e /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 memcpy.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 memset.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DriverEntryPoint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScsiDisk.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ComponentName.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes16.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LinkedList.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Unaligned.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Math64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ZeroMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGeneric.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGuid.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMem.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemoryAllocationLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiRuntimeServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathUtilities.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDevicePathLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathToText.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathFromText.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiBootServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDriverModel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HobLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiScsiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CpuDeadLoop.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SafeString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 String.obj (symbol from plugin)
+ .text          0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .text          0x0000000000000000        0x0 DivU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FrameBufferSerialPortLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLibInternal.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadMidr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetFiqState
+                0x0000000000000000       0x10 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCpacr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteAuxCr
+                0x0000000000000000       0x28 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadAuxCr
+                0x0000000000000000       0x28 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetTTBR0
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetTTBR0BaseAddress
+                0x0000000000000000       0x30 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetTCR
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetTCR
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetMAIR
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetMAIR
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmUpdateTranslationTableEntry
+                0x0000000000000000       0x40 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmInvalidateTlb
+                0x0000000000000000       0x38 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCptr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteScr
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteMVBar
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmCallWFE
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmCallSEV
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadCpuActlr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCpuActlr
+                0x0000000000000000       0x10 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadSctlr
+                0x0000000000000000       0x30 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmIsMpCore
+                0x0000000000000000       0x14 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableAsynchronousAbort
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableAsynchronousAbort
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableIrq
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableIrq
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableFiq
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableFiq
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableAllExceptions
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ReadCCSIDR
+                0x0000000000000000       0x10 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ReadCLIDR
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text          0x0000000000000000        0x0 ArmCacheMaintenanceLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ArmLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateDataCacheEntryByMVA
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryByMVA
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryToPoUByMVA
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateInstructionCacheEntryToPoUByMVA
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanInvalidateDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateInstructionCache
+                0x0000000000000000       0x10 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableMmu
+                0x0000000000000000       0x88 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableMmu
+                0x0000000000000000       0x74 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableCachesAndMmu
+                0x0000000000000000       0x6c /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmMmuEnabled
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableDataCache
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableDataCache
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableInstructionCache
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableInstructionCache
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableAlignmentCheck
+                0x0000000000000000       0x58 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableAlignmentCheck
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableStackAlignmentCheck
+                0x0000000000000000       0x58 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableStackAlignmentCheck
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableBranchPrediction
+                0x0000000000000000        0x4 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableBranchPrediction
+                0x0000000000000000        0x4 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.AArch64AllDataCachesOperation
+                0x0000000000000000       0xa8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDataMemoryBarrier
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInstructionSynchronizationBarrier
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteVBar
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadVBar
+                0x0000000000000000       0x30 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableVFP
+                0x0000000000000000       0x64 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCallWFI
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadMpidr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadTpidrurw
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteTpidrurw
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmIsArchTimerImplemented
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadIdPfr0
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadIdPfr1
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteHcr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadHcr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadCurrentEL
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadCntHctl
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteCntHctl
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+LOAD /tmp/ccCSHn6H.ltrans0.ltrans.o
+START GROUP
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmCacheMaintenanceLib/ArmCacheMaintenanceLib/OUTPUT/ArmCacheMaintenanceLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/FrameBufferSerialPortLib/FrameBufferSerialPortLib/OUTPUT/FrameBufferSerialPortLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiScsiLib/UefiScsiLib/OUTPUT/UefiScsiLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Bus/Scsi/ScsiDiskDxe/ScsiDiskDxe/OUTPUT/ScsiDisk.lib
+END GROUP
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000001000     0x921e
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.MultU64x32.constprop.19
+                0x0000000000001000       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.InternalAllocatePool.constprop.17
+                0x0000000000001010       0x38 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.BasePrintLibFillBuffer
+                0x0000000000001048       0x34 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.AsciiStrnLenS
+                0x000000000000107c       0x3c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.DebugPrintLevelEnabled
+                0x00000000000010b8        0x8 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.DebugPrintEnabled
+                0x00000000000010c0        0x8 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.DebugAssertEnabled
+                0x00000000000010c8        0x8 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.SwapBytes16
+                0x00000000000010d0        0x8 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.SwapBytes32
+                0x00000000000010d8       0x20 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.SwapBytes64
+                0x00000000000010f8       0x28 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskInfoSenseData
+                0x0000000000001120        0xc /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.CheckTargetStatus
+                0x000000000000112c       0x48 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.CheckHostAdapterStatus
+                0x0000000000001174       0x60 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ProcessModuleUnloadList
+                0x00000000000011d4        0x8 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskDriverBindingSupported
+                0x00000000000011dc       0xb4 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.BaseDebugLibSerialPortConstructor
+                0x0000000000001290       0x84 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.FbConFlush
+                0x0000000000001314       0x54 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.SerialPortWrite
+                0x0000000000001368      0x314 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.DebugAssert
+                0x000000000000167c       0x58 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.StrSize.constprop.3
+                0x00000000000016d4       0x84 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.AsciiStrLen
+                0x0000000000001758       0xa0 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.AsciiStrSize
+                0x00000000000017f8       0x18 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.AsciiStrnCmp
+                0x0000000000001810       0xe4 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.DevicePathSubType
+                0x00000000000018f4       0x48 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.DevicePathType
+                0x000000000000193c       0x48 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.IsDevicePathEndType
+                0x0000000000001984       0x58 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.CopyMem  0x00000000000019dc      0x2a8 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.AllocateCopyPool
+                0x0000000000001c84       0x74 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ZeroMem  0x0000000000001cf8      0x10c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiReadCapacity16Command.constprop.15
+                0x0000000000001e04      0x104 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiInquiryCommandEx.constprop.13
+                0x0000000000001f08      0x12c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.AllocateZeroPool
+                0x0000000000002034       0x34 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.WriteUnaligned16
+                0x0000000000002068       0x5c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.WriteUnaligned32
+                0x00000000000020c4       0x64 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiWrite10Command
+                0x0000000000002128      0x128 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiRead10Command
+                0x0000000000002250      0x124 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.WriteUnaligned64
+                0x0000000000002374       0x64 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiWrite16Command
+                0x00000000000023d8      0x128 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiRead16Command
+                0x0000000000002500      0x124 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ReadUnaligned16
+                0x0000000000002624       0x68 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.NextDevicePathNode
+                0x000000000000268c       0x70 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ReadUnaligned32
+                0x00000000000026fc       0x5c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.BasePrintLibSPrintMarker.constprop.31
+                0x0000000000002758      0xc70 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.unlikely.BasePrintLibSPrint.constprop.32
+                0x00000000000033c8       0x54 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.DebugPrint
+                0x000000000000341c       0x88 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.FreePool
+                0x00000000000034a4       0x7c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiLibNotify
+                0x0000000000003520       0xa0 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.DetectMediaParsingSenseKeys
+                0x00000000000035c0      0x3c4 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskWriteSectors
+                0x0000000000003984      0x3f4 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskReadSectors
+                0x0000000000003d78      0x3f4 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.AsciiSPrint.constprop.29
+                0x000000000000416c       0x64 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ReadUnaligned64
+                0x00000000000041d0       0x5c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.CompareGuid
+                0x000000000000422c       0x5c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.CopyGuid
+                0x0000000000004288       0x4c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ReadUnaligned24
+                0x00000000000042d4       0x54 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.AddUnicodeString2.constprop.1
+                0x0000000000004328      0x1e8 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.LookupUnicodeString2.part.1
+                0x0000000000004510      0x128 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskComponentNameGetDriverName
+                0x0000000000004638       0x50 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.InitializeListHead
+                0x0000000000004688       0x4c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.InternalBaseLibIsListValid
+                0x00000000000046d4       0xb8 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.IsListEmpty
+                0x000000000000478c       0x5c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.RemoveEntryList
+                0x00000000000047e8       0x64 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskAsyncUnmapNotify
+                0x000000000000484c       0xf0 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.InsertTailList
+                0x000000000000493c       0x6c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskAsyncRead10.constprop.11
+                0x00000000000049a8      0x320 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskAsyncWrite16.constprop.8
+                0x0000000000004cc8      0x31c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskAsyncWrite10.constprop.7
+                0x0000000000004fe4      0x320 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskAsyncRead16.constprop.6
+                0x0000000000005304      0x31c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskNotify
+                0x0000000000005620      0x328 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskUnmap
+                0x0000000000005948      0x30c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskComponentNameGetControllerName
+                0x0000000000005c54      0x180 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskInfoWhichIde
+                0x0000000000005dd4       0xb4 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskInfoIdentify
+                0x0000000000005e88       0xd8 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskInfoInquiry
+                0x0000000000005f60       0xa0 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.GetParentProtocol
+                0x0000000000006000      0x138 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskResetEx
+                0x0000000000006138       0xe0 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskReset
+                0x0000000000006218       0xe0 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskDriverBindingStop
+                0x00000000000062f8      0x1bc /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.FreeAlignedBuffer
+                0x00000000000064b4       0x9c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.AllocateAlignedBuffer
+                0x0000000000006550      0x1bc /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.DetermineInstallEraseBlock
+                0x000000000000670c      0x1fc /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskRequestSenseKeys
+                0x0000000000006908      0x220 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskDetectMedia
+                0x0000000000006b28      0x7ac /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskEraseBlocks
+                0x00000000000072d4      0x210 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskFlushBlocksEx
+                0x00000000000074e4      0x1ac /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskWriteBlocksEx
+                0x0000000000007690      0x44c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskReadBlocksEx
+                0x0000000000007adc      0x43c /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskWriteBlocks
+                0x0000000000007f18      0x210 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskReadBlocks
+                0x0000000000008128      0x200 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text.ScsiDiskDriverBindingStart
+                0x0000000000008328      0x9e0 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .text._ModuleEntryPoint
+                0x0000000000008d08      0x308 /tmp/ccCSHn6H.ltrans0.ltrans.o
+                0x0000000000008d08                _ModuleEntryPoint
+ .text.ArmCacheInfo
+                0x0000000000009010        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                0x0000000000009010                ArmCacheInfo
+ .text.ArmGetInterruptState
+                0x0000000000009018       0x10 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                0x0000000000009018                ArmGetInterruptState
+ .text.ArmEnableInterrupts
+                0x0000000000009028        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                0x0000000000009028                ArmEnableInterrupts
+ .text.ArmDisableInterrupts
+                0x0000000000009034        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                0x0000000000009034                ArmDisableInterrupts
+ .text.ArmCleanInvalidateDataCacheEntryByMVA
+                0x0000000000009040        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                0x0000000000009040                ArmCleanInvalidateDataCacheEntryByMVA
+ .text.ArmDataSynchronizationBarrier
+                0x0000000000009048        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                0x0000000000009048                ArmDataSynchronizationBarrier
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.AllocateAlignedBuffer.str1.1
+                0x0000000000009050       0x23 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.AllocateCopyPool.str1.1
+                0x0000000000009073       0x93 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.AsciiStrLen.str1.1
+                0x0000000000009106       0x4f /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.AsciiStrnCmp.str1.1
+                0x0000000000009155       0x70 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.BasePrintLibSPrintMarker.constprop.31.str1.1
+                0x00000000000091c5      0x176 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.CopyMem.str1.1
+                0x000000000000933b       0xc6 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.DebugAssert.str1.1
+                0x0000000000009401       0x21 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.DetectMediaParsingSenseKeys.str1.1
+                0x0000000000009422       0xee /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.DetermineInstallEraseBlock.str1.1
+                0x0000000000009510       0xc5 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.DevicePathSubType.str1.1
+                0x00000000000095d5       0x63 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.FreePool.str1.1
+                0x0000000000009638       0x35 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.InitializeListHead.str1.1
+                0x000000000000966d       0x54 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.InternalBaseLibIsListValid.str1.1
+                0x00000000000096c1       0x41 /tmp/ccCSHn6H.ltrans0.ltrans.o
+                                         0x56 (size before relaxing)
+ .rodata.IsListEmpty.str1.1
+                0x0000000000009702       0x26 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.RemoveEntryList.str1.1
+                0x0000000000009728       0x15 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.ScsiDiskAsyncUnmapNotify.str1.1
+                0x000000000000973d       0x86 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.ScsiDiskComponentNameGetControllerName.str1.1
+                0x00000000000097c3       0x5e /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.ScsiDiskDriverBindingStart.str1.1
+                0x0000000000009821       0xf6 /tmp/ccCSHn6H.ltrans0.ltrans.o
+                                         0xf9 (size before relaxing)
+ .rodata.ScsiDiskInfoWhichIde.str1.1
+                0x0000000000009917       0x44 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.ScsiDiskNotify.str1.1
+                0x000000000000995b       0x2b /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.ScsiDiskReadSectors.str1.1
+                0x0000000000009986       0x56 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.ScsiDiskUnmap.str1.1
+                0x00000000000099dc       0x70 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.ScsiDiskWriteSectors.str1.1
+                0x0000000000009a4c       0x58 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.ScsiReadCapacity16Command.constprop.15.str1.1
+                0x0000000000009aa4       0x57 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.StrSize.constprop.3.str1.1
+                0x0000000000009afb       0x71 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.StrSize.constprop.3.str2.2
+                0x0000000000009b6c       0x22 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.WriteUnaligned16.str1.1
+                0x0000000000009b8e       0x3e /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.ZeroMem.str1.1
+                0x0000000000009bcc       0x92 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata._ModuleEntryPoint.str1.1
+                0x0000000000009c5e      0x212 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.__FUNCTION__.11387
+                0x0000000000009e70       0x16 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.mHexStr
+                0x0000000000009e86       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ *fill*         0x0000000000009e96        0x2 
+ .rodata.mStatusString
+                0x0000000000009e98      0x138 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .rodata.str1.1
+                0x0000000000009fd0      0x22b /tmp/ccCSHn6H.ltrans0.ltrans.o
+                                        0x23c (size before relaxing)
+ *fill*         0x000000000000a1fb        0x1 
+ .rodata.str2.2
+                0x000000000000a1fc       0x22 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ *(.got .got.*)
+ *:AutoGen.obj(.data.g*Guid)
+
+.iplt           0x000000000000a220        0x0
+ .iplt          0x000000000000a220        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+
+.data           0x000000000000b000      0x4f0
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.font5x12
+                0x000000000000b000      0x300 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gEfiBlockIo2ProtocolGuid
+                0x000000000000b300       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gEfiBlockIoProtocolGuid
+                0x000000000000b310       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gEfiDevicePathProtocolGuid
+                0x000000000000b320       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gEfiDiskInfoAhciInterfaceGuid
+                0x000000000000b330       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gEfiDiskInfoIdeInterfaceGuid
+                0x000000000000b340       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gEfiDiskInfoProtocolGuid
+                0x000000000000b350       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gEfiDiskInfoScsiInterfaceGuid
+                0x000000000000b360       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gEfiDiskInfoUfsInterfaceGuid
+                0x000000000000b370       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gEfiDriverBindingProtocolGuid
+                0x000000000000b380       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gEfiEraseBlockProtocolGuid
+                0x000000000000b390       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gEfiExtScsiPassThruProtocolGuid
+                0x000000000000b3a0       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gEfiHobListGuid
+                0x000000000000b3b0       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gEfiScsiIoProtocolGuid
+                0x000000000000b3c0       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gEfiScsiPassThruProtocolGuid
+                0x000000000000b3d0       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gScsiDiskComponentName
+                0x000000000000b3e0       0x18 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gScsiDiskComponentName2
+                0x000000000000b3f8       0x18 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gScsiDiskDriverBinding
+                0x000000000000b410       0x30 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.gScsiDiskInfoProtocolTemplate
+                0x000000000000b440       0x30 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .data.mScsiDiskDriverNameTable
+                0x000000000000b470       0x20 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ *(.bss .bss.*)
+ .bss.gBS       0x000000000000b490        0x8 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .bss.gImageHandle
+                0x000000000000b498        0x8 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .bss.gRT       0x000000000000b4a0        0x8 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .bss.gST       0x000000000000b4a8        0x8 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .bss.mHobList  0x000000000000b4b0        0x8 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .bss.m_Color   0x000000000000b4b8       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .bss.m_Initialized
+                0x000000000000b4c8        0x1 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ *fill*         0x000000000000b4c9        0x7 
+ .bss.m_MaxPosition
+                0x000000000000b4d0       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+ .bss.m_Position
+                0x000000000000b4e0       0x10 /tmp/ccCSHn6H.ltrans0.ltrans.o
+
+.igot.plt       0x000000000000b4f0        0x0
+ .igot.plt      0x000000000000b4f0        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+
+.eh_frame
+ *(.eh_frame)
+
+.rela           0x000000000000b4f0        0x0
+ *(.rela .rela.*)
+ .rela.iplt     0x000000000000b4f0        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+
+.hii
+ *(.hii)
+
+.build-id       0x000000000000b4f0       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x000000000000b4f0       0x24 /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+OUTPUT(/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Bus/Scsi/ScsiDiskDxe/ScsiDiskDxe/DEBUG/ScsiDisk.dll elf64-littleaarch64)
+
+.debug_info     0x0000000000000000     0xfbe6
+ .debug_info    0x0000000000000000     0xfbe6 /tmp/ccCSHn6H.ltrans0.ltrans.o
+
+.debug_abbrev   0x0000000000000000      0x6fe
+ .debug_abbrev  0x0000000000000000      0x6fe /tmp/ccCSHn6H.ltrans0.ltrans.o
+
+.debug_loc      0x0000000000000000    0x12f33
+ .debug_loc     0x0000000000000000    0x12f33 /tmp/ccCSHn6H.ltrans0.ltrans.o
+
+.debug_aranges  0x0000000000000000      0x610
+ .debug_aranges
+                0x0000000000000000      0x610 /tmp/ccCSHn6H.ltrans0.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x17f0
+ .debug_ranges  0x0000000000000000     0x17f0 /tmp/ccCSHn6H.ltrans0.ltrans.o
+
+.debug_line     0x0000000000000000     0x2890
+ .debug_line    0x0000000000000000     0x2890 /tmp/ccCSHn6H.ltrans0.ltrans.o
+
+.debug_str      0x0000000000000000     0x478e
+ .debug_str     0x0000000000000000     0x478e /tmp/ccCSHn6H.ltrans0.ltrans.o
+                                       0x4dc1 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x1520
+ .debug_frame   0x0000000000000000     0x1520 /tmp/ccCSHn6H.ltrans0.ltrans.o

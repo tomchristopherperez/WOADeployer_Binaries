@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_PE32 -o /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/FV/Ffs/058f0796-85a9-4cfa-8b84-04bd0d218ddbPCIExpressConfiguratorDxe/058f0796-85a9-4cfa-8b84-04bd0d218ddbSEC2.1.pe32 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/PCIExpressConfiguratorDxe/PCIExpressConfiguratorDxe/OUTPUT/PCIExpressConfiguratorDxe.efi

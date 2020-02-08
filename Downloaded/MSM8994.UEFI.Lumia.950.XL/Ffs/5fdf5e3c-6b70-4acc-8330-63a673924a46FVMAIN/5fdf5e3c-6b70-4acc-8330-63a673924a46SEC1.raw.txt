@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_RAW -o /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/FV/Ffs/5fdf5e3c-6b70-4acc-8330-63a673924a46FVMAIN/5fdf5e3c-6b70-4acc-8330-63a673924a46SEC1.raw /home/vsts/work/1/edk2/Lumia950XLPkg/Driver/PreLoaderDxe/BootshimCheckFail.png

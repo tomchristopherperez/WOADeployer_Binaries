@@ -1,0 +1,24 @@
+﻿# Downloading resources
+FetchAzureDevOpsArtifact "LumiaWOA;Boot Shim;3;UEFI Loader for 8992 and 8994"
+FetchGitHubBranch "https://github.com/WOA-Project/MSM8994-8992-NT-ARM64-Drivers" "6eb3b23aec713954549870964660fede7a1f78f9"
+FetchGitHubBranch "https://github.com/WOA-Project/Support-Desktop-Drivers" "a18f665763dd34f2eb114d2c877b52945eb522e7"
+FetchGitHubBranch "https://github.com/WOA-Project/Specifics-MMO-Drivers" "b3ca41631da849f5e652b71aa5d24f8daf177115"
+FetchGitHubBranch "https://github.com/WOA-Project/Specifics-Cityman" "master"
+# Configuring device
+Copy "UEFI.elf" "[EFIESP]\"
+Copy "BootShim.efi" "[EFIESP]\EFI\boot\"
+ConfigureBCD
+InstallDevMenu "Core\Developer Menu\"
+# Deploying Windows
+DeployWindows
+MakeWindowsBootable
+CopyDirectory "[DPP]" "[Windows]\DPP"
+# Injecting Drivers
+InjectDrivers "Downloaded\Support-Desktop-Drivers"
+InjectDrivers "Downloaded\MSM8994-8992-NT-ARM64-Drivers\msm8992-8994"
+InjectDrivers "Downloaded\MSM8994-8992-NT-ARM64-Drivers\msm8994"
+InjectDrivers "Downloaded\MSM8994-8992-NT-ARM64-Drivers\support-aarch64"
+InjectDrivers "Downloaded\MSM8994-8992-NT-ARM64-Drivers\configurations\soc-final"
+InjectDrivers "Downloaded\Specifics-MMO-Drivers"
+InjectDrivers "Downloaded\Specifics-Cityman"
+DisplayMarkdown "Downloaded\MSM8994-8992-NT-ARM64-Drivers\README.md"

@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_PE32 -o /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/FV/Ffs/39A24CF8-411E-48EB-8BEA-3ED07327F400GenericKeypadDeviceDxe/39A24CF8-411E-48EB-8BEA-3ED07327F400SEC2.1.pe32 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/GenericKeypadDeviceDxe/GenericKeypadDeviceDxe/OUTPUT/GenericKeypadDeviceDxe.efi

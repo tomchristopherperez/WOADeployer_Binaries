@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_PE32 -o /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/FV/Ffs/3A732816-39DF-4AB8-963C-E9D93D42F025GpioTlmmInterruptDxe/3A732816-39DF-4AB8-963C-E9D93D42F025SEC2.1.pe32 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/GPLDriver/GpioTlmmInterruptDxe/GpioTlmmInterruptDxe/OUTPUT/GpioTlmmInterruptDxe.efi

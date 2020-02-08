@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_PE32 -o /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/FV/Ffs/d78220d3-e5b5-4e80-a5b5-002948b4bb67PreLoaderDxe/d78220d3-e5b5-4e80-a5b5-002948b4bb67SEC2.1.pe32 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/PreLoaderDxe/PreLoaderDxe/OUTPUT/PreLoaderDxe.efi

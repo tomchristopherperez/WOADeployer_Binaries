@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_DXE_DEPEX -o /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/FV/Ffs/FDF13B88-C609-4B9A-87B8-A8C08A1134A8SmemPtableDxe/FDF13B88-C609-4B9A-87B8-A8C08A1134A8SEC1.1.dpx /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/SmemPtableDxe/SmemPtableDxe/OUTPUT/SmemPtableDxe.depex

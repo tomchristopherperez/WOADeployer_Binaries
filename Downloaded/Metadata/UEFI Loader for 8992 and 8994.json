@@ -1,0 +1,13 @@
+{
+  "id": 162,
+  "name": "UEFI Loader for 8992 and 8994",
+  "resource": {
+    "type": "Container",
+    "data": "#/747204/UEFI Loader for 8992 and 8994",
+    "properties": {
+      "localpath": "C:\\PublicBuild\\_work\\2\\s\\build\\BootShim"
+    },
+    "url": "https://dev.azure.com/LumiaWoA/328eea29-7d2f-4cdf-b928-d58c53d8f29d/_apis/build/builds/99/artifacts?artifactName=UEFI%20Loader%20for%208992%20and%208994&api-version=5.0-preview.5",
+    "downloadUrl": "https://dev.azure.com/LumiaWoA/328eea29-7d2f-4cdf-b928-d58c53d8f29d/_apis/build/builds/99/artifacts?artifactName=UEFI%20Loader%20for%208992%20and%208994&api-version=5.0-preview.5&%24format=zip"
+  }
+}

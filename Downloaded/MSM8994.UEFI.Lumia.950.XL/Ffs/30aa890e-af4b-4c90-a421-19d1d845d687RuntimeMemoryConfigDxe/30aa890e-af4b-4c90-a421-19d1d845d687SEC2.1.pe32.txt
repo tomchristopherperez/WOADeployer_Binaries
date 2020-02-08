@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_PE32 -o /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/FV/Ffs/30aa890e-af4b-4c90-a421-19d1d845d687RuntimeMemoryConfigDxe/30aa890e-af4b-4c90-a421-19d1d845d687SEC2.1.pe32 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/RuntimeMemoryConfigDxe/RuntimeMemoryConfigDxe/OUTPUT/RuntimeMemoryConfigDxe.efi

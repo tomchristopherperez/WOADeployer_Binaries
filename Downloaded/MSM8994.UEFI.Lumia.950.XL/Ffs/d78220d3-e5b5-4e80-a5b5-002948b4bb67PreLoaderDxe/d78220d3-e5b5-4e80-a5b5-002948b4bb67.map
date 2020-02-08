@@ -1,0 +1,1822 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memcpy.obj)
+                              /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memcpy)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memset.obj)
+                              /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memset)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (_ModuleEntryPoint)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/PreLoaderDxe/PreLoaderDxe/OUTPUT/PreLoaderDxe.lib(AutoGen.obj)
+                              DriverEntryPoint.obj (symbol from plugin) (ProcessLibraryConstructorList)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/PreLoaderDxe/PreLoaderDxe/OUTPUT/PreLoaderDxe.lib(PreLoader.obj)
+                              AutoGen.obj (symbol from plugin) (PreLoaderDxeInitialize)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              PreLoader.obj (symbol from plugin) (MultU64x32)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              MultU64x32.obj (symbol from plugin) (InternalMathMultU64x32)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              Math64.obj (symbol from plugin) (SwapBytes32)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              SwapBytes32.obj (symbol from plugin) (SwapBytes16)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib(DebugLib.obj)
+                              AutoGen.obj (symbol from plugin) (BaseDebugLibSerialPortConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiRuntimeServicesTableLibConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiBootServicesTableLibConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiLibConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib(HobLib.obj)
+                              AutoGen.obj (symbol from plugin) (HobLibConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmArchTimerLib/ArmArchTimerLib/OUTPUT/ArmArchTimerLib.lib(ArmArchTimerLib.obj)
+                              AutoGen.obj (symbol from plugin) (TimerConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/SpmiDxe/SpmiImplLib/OUTPUT/SpmiImplLib.lib(LibraryImpl.obj)
+                              AutoGen.obj (symbol from plugin) (SpmiImplLibInitialize)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/SpmiDxe/SpmiImplLib/OUTPUT/SpmiImplLib.lib(spmi.obj)
+                              LibraryImpl.obj (symbol from plugin) (spmi_init)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/Pm8x41Dxe/Pm8x41ImplLib/OUTPUT/Pm8x41ImplLib.lib(LibraryImpl.obj)
+                              AutoGen.obj (symbol from plugin) (Pm8x41ImplLibInitialize)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/Pm8x41Dxe/Pm8x41ImplLib/OUTPUT/Pm8x41ImplLib.lib(pm8x41.obj)
+                              LibraryImpl.obj (symbol from plugin) (pmi8994_config_mpp_slave_id)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/Pm8x41Dxe/Pm8x41ImplLib/OUTPUT/Pm8x41ImplLib.lib(pm8x41_adc.obj)
+                              LibraryImpl.obj (symbol from plugin) (pm8x41_adc_channel_read)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/Pm8x41Dxe/Pm8x41ImplLib/OUTPUT/Pm8x41ImplLib.lib(pm8x41_vib.obj)
+                              LibraryImpl.obj (symbol from plugin) (pm_vib_turn_on)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/Pm8x41Dxe/Pm8x41ImplLib/OUTPUT/Pm8x41ImplLib.lib(pm8x41_wled.obj)
+                              LibraryImpl.obj (symbol from plugin) (pm8x41_wled_reg_write)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/Pm8x41Dxe/Pm8x41ImplLib/OUTPUT/Pm8x41ImplLib.lib(pm_pwm.obj)
+                              LibraryImpl.obj (symbol from plugin) (pm_pwm_config)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmMmuLib/ArmMmuBaseLib/OUTPUT/ArmMmuBaseLib.lib(ArmMmuLibCore.obj)
+                              AutoGen.obj (symbol from plugin) (ArmMmuBaseLibConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmMmuLib/ArmMmuBaseLib/OUTPUT/ArmMmuBaseLib.lib(ArmMmuLibReplaceEntry.obj)
+                              ArmMmuLibCore.obj (symbol from plugin) (ArmReplaceLiveTranslationEntry)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/QcomPmicResetSystemLib/QcomPmicResetSystemLib/OUTPUT/QcomPmicResetSystemLib.lib(QcomPmicResetSystemLib.obj)
+                              PreLoader.obj (symbol from plugin) (LibInitializeResetSystem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/DxeServicesLib/DxeServicesLib/OUTPUT/DxeServicesLib.lib(DxeServicesLib.obj)
+                              PreLoader.obj (symbol from plugin) (GetSectionFromAnyFv)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_obj.obj)
+                              PreLoader.obj (symbol from plugin) (lv_obj_set_size)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_refr.obj)
+                              lv_obj.obj (symbol from plugin) (lv_refr_init)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_style.obj)
+                              lv_obj.obj (symbol from plugin) (lv_style_init)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_vdb.obj)
+                              lv_refr.obj (symbol from plugin) (lv_vdb_get)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_draw_rect.obj)
+                              lv_obj.obj (symbol from plugin) (lv_draw_rect)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_dejavu_20.obj)
+                              lv_style.obj (symbol from plugin) (lv_font_dejavu_20)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_hal_disp.obj)
+                              PreLoader.obj (symbol from plugin) (lv_disp_drv_init)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_hal_indev.obj)
+                              PreLoader.obj (symbol from plugin) (lv_indev_drv_init)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_hal_tick.obj)
+                              PreLoader.obj (symbol from plugin) (lv_tick_inc)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font.obj)
+                              lv_obj.obj (symbol from plugin) (lv_font_init)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_circ.obj)
+                              lv_draw_rect.obj (symbol from plugin) (lv_circ_init)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_area.obj)
+                              lv_draw_rect.obj (symbol from plugin) (lv_area_set)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_task.obj)
+                              lv_obj.obj (symbol from plugin) (lv_task_init)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_fs.obj)
+                              lv_obj.obj (symbol from plugin) (lv_fs_init)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_anim.obj)
+                              lv_obj.obj (symbol from plugin) (lv_anim_init)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_mem.obj)
+                              lv_obj.obj (symbol from plugin) (lv_mem_init)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_ll.obj)
+                              lv_obj.obj (symbol from plugin) (lv_ll_init)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_ufs.obj)
+                              lv_obj.obj (symbol from plugin) (lv_ufs_init)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_math.obj)
+                              lv_anim.obj (symbol from plugin) (lv_bezier3)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_log.obj)
+                              lv_obj.obj (symbol from plugin) (lv_log_add)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_img.obj)
+                              PreLoader.obj (symbol from plugin) (lv_img_set_src)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_theme.obj)
+                              lv_obj.obj (symbol from plugin) (lv_theme_get_current)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_group.obj)
+                              lv_obj.obj (symbol from plugin) (lv_group_add_obj)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_indev.obj)
+                              lv_obj.obj (symbol from plugin) (lv_indev_init)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_draw.obj)
+                              lv_draw_rect.obj (symbol from plugin) (lv_draw_aa_get_opa)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_draw_label.obj)
+                              lv_img.obj (symbol from plugin) (lv_draw_label)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_draw_img.obj)
+                              lv_img.obj (symbol from plugin) (lv_img_src_get_type)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_builtin.obj)
+                              lv_font.obj (symbol from plugin) (lv_font_builtin_init)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_dejavu_10.obj)
+                              lv_font_builtin.obj (symbol from plugin) (lv_font_dejavu_10)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_dejavu_30.obj)
+                              lv_font_builtin.obj (symbol from plugin) (lv_font_dejavu_30)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_dejavu_40.obj)
+                              lv_font_builtin.obj (symbol from plugin) (lv_font_dejavu_40)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_dejavu_10_cyrillic.obj)
+                              lv_font_builtin.obj (symbol from plugin) (lv_font_dejavu_10_cyrillic)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_dejavu_20_cyrillic.obj)
+                              lv_font_builtin.obj (symbol from plugin) (lv_font_dejavu_20_cyrillic)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_dejavu_30_cyrillic.obj)
+                              lv_font_builtin.obj (symbol from plugin) (lv_font_dejavu_30_cyrillic)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_dejavu_40_cyrillic.obj)
+                              lv_font_builtin.obj (symbol from plugin) (lv_font_dejavu_40_cyrillic)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_dejavu_10_latin_sup.obj)
+                              lv_font_builtin.obj (symbol from plugin) (lv_font_dejavu_10_latin_sup)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_dejavu_20_latin_sup.obj)
+                              lv_font_builtin.obj (symbol from plugin) (lv_font_dejavu_20_latin_sup)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_dejavu_30_latin_sup.obj)
+                              lv_font_builtin.obj (symbol from plugin) (lv_font_dejavu_30_latin_sup)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_dejavu_40_latin_sup.obj)
+                              lv_font_builtin.obj (symbol from plugin) (lv_font_dejavu_40_latin_sup)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_symbol_10.obj)
+                              lv_font_builtin.obj (symbol from plugin) (lv_font_symbol_10)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_symbol_20.obj)
+                              lv_font_builtin.obj (symbol from plugin) (lv_font_symbol_20)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_symbol_30.obj)
+                              lv_font_builtin.obj (symbol from plugin) (lv_font_symbol_30)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_font_symbol_40.obj)
+                              lv_font_builtin.obj (symbol from plugin) (lv_font_symbol_40)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_txt.obj)
+                              lv_draw_label.obj (symbol from plugin) (lv_txt_encoded_next)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib(lv_draw_vbasic.obj)
+                              lv_draw.obj (symbol from plugin) (lv_vpx)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LodePngLib/LodePngLib/OUTPUT/LodePngLib.lib(lodepng.obj)
+                              PreLoader.obj (symbol from plugin) (lodepng_decode32)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+                              UefiLib.obj (symbol from plugin) (ZeroMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+                              DebugLib.obj (symbol from plugin) (SetMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+                              UefiLib.obj (symbol from plugin) (CopyMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+                              ZeroMemWrapper.obj (symbol from plugin) (InternalMemZeroMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+                              UefiLib.obj (symbol from plugin) (CompareGuid)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+                              CopyMemWrapper.obj (symbol from plugin) (InternalMemCopyMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+                              SetMemWrapper.obj (symbol from plugin) (InternalMemSetMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+                              SetMemWrapper.obj (symbol from plugin) (SetMem64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              ArmArchTimerLib.obj (symbol from plugin) (MultU64x64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              SetMem.obj (symbol from plugin) (LShiftU64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              ArmMmuLibCore.obj (symbol from plugin) (LowBitSet64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              ArmArchTimerLib.obj (symbol from plugin) (DivU64x32Remainder)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              ArmArchTimerLib.obj (symbol from plugin) (DivU64x32)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              DebugLib.obj (symbol from plugin) (CpuDeadLoop)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              UefiLib.obj (symbol from plugin) (StrSize)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              UefiLib.obj (symbol from plugin) (ReadUnaligned24)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+                              DebugLib.obj (symbol from plugin) (CpuBreakpoint)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              LowBitSet64.obj (symbol from plugin) (RShiftU64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              String.obj (symbol from plugin) (StrDecimalToUintnS)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Lib.obj)
+                              ArmMmuLibCore.obj (symbol from plugin) (ArmCleanInvalidateDataCache)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                              AArch64Lib.obj (symbol from plugin) (ArmGetInterruptState)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                              AArch64Lib.obj (symbol from plugin) (ArmEnableInterrupts)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                              AArch64Lib.obj (symbol from plugin) (ArmInvalidateDataCacheEntryBySetWay)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmCacheMaintenanceLib/ArmCacheMaintenanceLib/OUTPUT/ArmCacheMaintenanceLib.lib(ArmCacheMaintenanceLib.obj)
+                              ArmMmuLibCore.obj (symbol from plugin) (WriteBackDataCacheRange)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoLibArm.obj)
+                              spmi.obj (symbol from plugin) (MmioRead32)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              DebugLib.obj (symbol from plugin) (GetDebugPrintErrorLevel)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/FrameBufferSerialPortLib/FrameBufferSerialPortLib/OUTPUT/FrameBufferSerialPortLib.lib(FrameBufferSerialPortLib.obj)
+                              DebugLib.obj (symbol from plugin) (SerialPortInitialize)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              DebugLib.obj (symbol from plugin) (AsciiVSPrint)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              PrintLib.obj (symbol from plugin) (BasePrintLibConvertValueToString)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              ArmMmuLibCore.obj (symbol from plugin) (AllocatePages)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              DxeServicesLib.obj (symbol from plugin) (DevicePathType)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              DevicePathUtilities.obj (symbol from plugin) (GetDevicePathSize)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertDeviceNodeToText)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertTextToDeviceNode)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              DxeServicesLib.obj (symbol from plugin) (EfiGetNameGuidFromFwVolDevicePathNode)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmGenericTimerPhyCounterLib/ArmGenericTimerPhyCounterLib/OUTPUT/ArmGenericTimerPhyCounterLib.lib(ArmGenericTimerPhyCounterLib.obj)
+                              ArmArchTimerLib.obj (symbol from plugin) (ArmGenericTimerGetTimerFreq)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/MallocLib/MallocLib/OUTPUT/MallocLib.lib(malloc.obj)
+                              spmi.obj (symbol from plugin) (malloc)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/RuntimeSpmiLib/RuntimeSpmiLib/OUTPUT/RuntimeSpmiLib.lib(RuntimeSpmiLib.obj)
+                              QcomPmicResetSystemLib.obj (symbol from plugin) (RtSpmiInitialize)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              DevicePathFromText.obj (symbol from plugin) (SwapBytes64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLib.obj)
+                              ArmCacheMaintenanceLib.obj (symbol from plugin) (ArmDataCacheLineLength)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+                              ArmGenericTimerPhyCounterLib.obj (symbol from plugin) (ArmReadCntFrq)
+
+Discarded input sections
+
+ .text          0x0000000000000000       0x10 /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .text          0x0000000000000000        0x0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_txt_is_cmd
+                0x0000000000000000       0x68 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.hex_char_to_num.lto_priv.86
+                0x0000000000000000       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.CSWTCH.14
+                0x0000000000000000        0x6 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x2e /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.StrnLenS
+                0x0000000000000000       0x7c /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.StrnLenS.str1.1
+                0x0000000000000000       0x5e /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdFixedDebugPrintErrorLevel
+                0x0000000000000000        0x4 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdPmicArbOwnerId
+                0x0000000000000000        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdSpmiBaseAddress
+                0x0000000000000000        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdSpmiMaxPeripherals
+                0x0000000000000000        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdSpmiVersion
+                0x0000000000000000        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.gHeight
+                0x0000000000000000        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.gWidth
+                0x0000000000000000        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.lv_txt_encoded_next
+                0x0000000000000000        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x2e /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text          0x0000000000000000        0x0 memcpy.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 memset.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DriverEntryPoint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PreLoader.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Math64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes16.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiRuntimeServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiBootServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HobLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ArmArchTimerLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LibraryImpl.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 spmi.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LibraryImpl.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 pm8x41.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 pm8x41_adc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 pm8x41_vib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 pm8x41_wled.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 pm_pwm.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ArmMmuLibCore.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmMmuLib/ArmMmuBaseLib/OUTPUT/ArmMmuBaseLib.lib(ArmMmuLibReplaceEntry.obj)
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmMmuLib/ArmMmuBaseLib/OUTPUT/ArmMmuBaseLib.lib(ArmMmuLibReplaceEntry.obj)
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmMmuLib/ArmMmuBaseLib/OUTPUT/ArmMmuBaseLib.lib(ArmMmuLibReplaceEntry.obj)
+ .text          0x0000000000000000        0x0 QcomPmicResetSystemLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DxeServicesLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_obj.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_refr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_style.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_vdb.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_draw_rect.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_dejavu_20.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_hal_disp.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_hal_indev.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_hal_tick.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_circ.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_area.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_task.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_fs.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_anim.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_mem.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_ll.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_ufs.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_math.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_log.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_img.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_theme.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_group.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_indev.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_draw.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_draw_label.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_draw_img.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_builtin.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_dejavu_10.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_dejavu_30.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_dejavu_40.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_dejavu_10_cyrillic.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_dejavu_20_cyrillic.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_dejavu_30_cyrillic.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_dejavu_40_cyrillic.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_dejavu_10_latin_sup.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_dejavu_20_latin_sup.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_dejavu_30_latin_sup.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_dejavu_40_latin_sup.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_symbol_10.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_symbol_20.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_symbol_30.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_font_symbol_40.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_txt.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lv_draw_vbasic.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 lodepng.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ZeroMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGeneric.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGuid.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMem.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CpuDeadLoop.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 String.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Unaligned.obj (symbol from plugin)
+ .text          0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .text          0x0000000000000000        0x0 RShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SafeString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AArch64Lib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadMidr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetFiqState
+                0x0000000000000000       0x10 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCpacr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteAuxCr
+                0x0000000000000000       0x28 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadAuxCr
+                0x0000000000000000       0x28 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetTTBR0
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetTTBR0BaseAddress
+                0x0000000000000000       0x30 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetTCR
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetTCR
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetMAIR
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetMAIR
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmUpdateTranslationTableEntry
+                0x0000000000000000       0x40 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmInvalidateTlb
+                0x0000000000000000       0x38 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCptr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteScr
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteMVBar
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmCallWFE
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmCallSEV
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadCpuActlr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCpuActlr
+                0x0000000000000000       0x10 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadSctlr
+                0x0000000000000000       0x30 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmIsMpCore
+                0x0000000000000000       0x14 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableAsynchronousAbort
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableAsynchronousAbort
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableIrq
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableIrq
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableFiq
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableFiq
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableAllExceptions
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ReadCCSIDR
+                0x0000000000000000       0x10 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ReadCLIDR
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateDataCacheEntryByMVA
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryToPoUByMVA
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateInstructionCacheEntryToPoUByMVA
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanInvalidateDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateInstructionCache
+                0x0000000000000000       0x10 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableMmu
+                0x0000000000000000       0x88 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableMmu
+                0x0000000000000000       0x74 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableCachesAndMmu
+                0x0000000000000000       0x6c /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmMmuEnabled
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableDataCache
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableDataCache
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableInstructionCache
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableInstructionCache
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableAlignmentCheck
+                0x0000000000000000       0x58 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableAlignmentCheck
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableStackAlignmentCheck
+                0x0000000000000000       0x58 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableStackAlignmentCheck
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableBranchPrediction
+                0x0000000000000000        0x4 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableBranchPrediction
+                0x0000000000000000        0x4 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.AArch64AllDataCachesOperation
+                0x0000000000000000       0xa8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDataMemoryBarrier
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInstructionSynchronizationBarrier
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteVBar
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadVBar
+                0x0000000000000000       0x30 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableVFP
+                0x0000000000000000       0x64 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCallWFI
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadMpidr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadTpidrurw
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteTpidrurw
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadIdPfr0
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadIdPfr1
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteHcr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadHcr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadCurrentEL
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadCntHctl
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteCntHctl
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text          0x0000000000000000        0x0 ArmCacheMaintenanceLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibArm.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FrameBufferSerialPortLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLibInternal.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemoryAllocationLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathUtilities.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDevicePathLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathToText.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathFromText.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiNotTiano.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ArmGenericTimerPhyCounterLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 malloc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RuntimeSpmiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ArmLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmWriteCntFrq
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmReadCntkCtl
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmWriteCntkCtl
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmReadCntpTval
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmWriteCntpTval
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmReadCntpCtl
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmWriteCntpCtl
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmReadCntvTval
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmWriteCntvTval
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmReadCntvCtl
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmWriteCntvCtl
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmReadCntvCt
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmReadCntpCval
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmWriteCntpCval
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmReadCntvCval
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmWriteCntvCval
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmReadCntvOff
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+ .text.ArmWriteCntvOff
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+LOAD /tmp/cc8DeYEj.ltrans0.ltrans.o
+LOAD /tmp/cc8DeYEj.ltrans1.ltrans.o
+START GROUP
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmCacheMaintenanceLib/ArmCacheMaintenanceLib/OUTPUT/ArmCacheMaintenanceLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/FrameBufferSerialPortLib/FrameBufferSerialPortLib/OUTPUT/FrameBufferSerialPortLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmGenericTimerPhyCounterLib/ArmGenericTimerPhyCounterLib/OUTPUT/ArmGenericTimerPhyCounterLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/MallocLib/MallocLib/OUTPUT/MallocLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmArchTimerLib/ArmArchTimerLib/OUTPUT/ArmArchTimerLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/SpmiDxe/SpmiImplLib/OUTPUT/SpmiImplLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/RuntimeSpmiLib/RuntimeSpmiLib/OUTPUT/RuntimeSpmiLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/Pm8x41Dxe/Pm8x41ImplLib/OUTPUT/Pm8x41ImplLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/DloadUtilLib/DloadUtilLib/OUTPUT/DloadUtilLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmMmuLib/ArmMmuBaseLib/OUTPUT/ArmMmuBaseLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseSafeIntLib/BaseSafeIntLib/OUTPUT/BaseSafeIntLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/QcomPmicResetSystemLib/QcomPmicResetSystemLib/OUTPUT/QcomPmicResetSystemLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/DxeServicesLib/DxeServicesLib/OUTPUT/DxeServicesLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Library/BaseBmpSupportLib/BaseBmpSupportLib/OUTPUT/BaseBmpSupportLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LittleVglLib/LittleVglLib/OUTPUT/LittleVglLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/LodePngLib/LodePngLib/OUTPUT/LodePngLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/PreLoaderDxe/PreLoaderDxe/OUTPUT/PreLoaderDxe.lib
+END GROUP
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000001000    0x867ff
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.unlikely.huffmanDecodeSymbol
+                0x0000000000001000       0x5c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.unlikely.readBitsFromStream
+                0x000000000000105c       0x48 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_color_mix.isra.0.lto_priv.90
+                0x00000000000010a4       0x68 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_txt_utf8_prev.lto_priv.71
+                0x000000000000110c       0x7c /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x000000000000110c                lv_txt_utf8_prev.lto_priv.71
+ .text.lv_txt_utf8_next.lto_priv.70
+                0x0000000000001188      0x138 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000001188                lv_txt_utf8_next.lto_priv.70
+ .text.lv_txt_utf8_size
+                0x00000000000012c0       0x4c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_img_src_get_type
+                0x000000000000130c       0x34 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_draw_aa_get_opa
+                0x0000000000001340       0x5c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.indev_proc_reset_query_handler
+                0x000000000000139c       0x30 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_scr_act
+                0x00000000000013cc        0xc /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x00000000000013cc                lv_scr_act
+ .text.lv_group_get_editing
+                0x00000000000013d8       0x18 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_group_get_focused
+                0x00000000000013f0       0x1c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_group_send_data
+                0x000000000000140c       0x2c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.ent_get_next
+                0x0000000000001438       0x34 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_ufs_dir_close
+                0x000000000000146c        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_ufs_dir_open
+                0x0000000000001474       0x18 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_ufs_size
+                0x000000000000148c       0x14 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_ufs_tell
+                0x00000000000014a0       0x10 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_ufs_close
+                0x00000000000014b0       0x20 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_ufs_ready
+                0x00000000000014d0        0xc /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.ent_trunc
+                0x00000000000014dc       0x78 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_fs_read
+                0x0000000000001554       0x64 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_area_is_in
+                0x00000000000015b8       0x4c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_area_intersect
+                0x0000000000001604       0x88 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_area_get_size
+                0x000000000000168c       0x24 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_circ_next
+                0x00000000000016b0       0x58 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_font_get_width_continuous
+                0x0000000000001708       0x34 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_font_get_bitmap_continuous
+                0x000000000000173c       0x3c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.unlikely.lv_font_add
+                0x0000000000001778       0x1c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.antialias_get_opa_circ
+                0x0000000000001794       0x54 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_draw_cont_radius_corr
+                0x00000000000017e8       0x50 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_flush_ready
+                0x0000000000001838       0x10 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_obj_get_opa_scale
+                0x0000000000001848       0x24 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.LibRuntimeVirtualAddressChanged
+                0x000000000000186c       0x48 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x000000000000186c                LibRuntimeVirtualAddressChanged
+ .text.pm8x41_wled_config_slave_id
+                0x00000000000018b4        0xc /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm_vib_turn_off
+                0x00000000000018c0       0x44 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm_vib_turn_on
+                0x0000000000001904       0x74 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_reg_write
+                0x0000000000001978       0x54 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm_pwm_enable
+                0x00000000000019cc       0x10 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_wled_reg_write
+                0x00000000000019dc       0x20 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_chgr_ctl_enable
+                0x00000000000019fc       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_clear_pmic_watchdog
+                0x0000000000001a3c        0xc /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_lpg_write
+                0x0000000000001a48       0x14 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8xxx_reg_write
+                0x0000000000001a5c       0x50 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_reg_read
+                0x0000000000001aac       0x58 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_wled_reg_read
+                0x0000000000001b04       0x1c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_diff_clock_ctrl
+                0x0000000000001b20       0x3c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_get_pon_poff_reason2
+                0x0000000000001b5c        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_get_pon_poff_reason1
+                0x0000000000001b64        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_get_pon_reason
+                0x0000000000001b6c        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_get_pmic_rev
+                0x0000000000001b74        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_get_pwrkey_is_pressed
+                0x0000000000001b7c       0x1c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_resin_status
+                0x0000000000001b98       0x1c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_gpio_get_sid
+                0x0000000000001bb4       0x48 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_gpio_set
+                0x0000000000001bfc       0x44 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_gpio_get
+                0x0000000000001c40       0x38 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_gpio_config
+                0x0000000000001c78       0xac /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_set_boot_done
+                0x0000000000001d24       0x20 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pmi8994_config_mpp_slave_id
+                0x0000000000001d44        0xc /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.Pm8x41ImplLibInitialize
+                0x0000000000001d50       0x18 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.FakeInputRead.lto_priv.68
+                0x0000000000001d68        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000001d68                FakeInputRead.lto_priv.68
+ .text.EfiGopBltFlush.lto_priv.69
+                0x0000000000001d70       0x5c /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000001d70                EfiGopBltFlush.lto_priv.69
+ .text.unlikely.HuffmanTree_cleanup
+                0x0000000000001dcc       0x30 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.unlikely.HuffmanTree_makeFromLengths
+                0x0000000000001dfc      0x2d8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_img_built_in_decoder_line_indexed
+                0x00000000000020d4      0x214 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_img_built_in_decoder_line_alpha
+                0x00000000000022e8      0x294 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.ArmMmuBaseLibConstructor
+                0x000000000000257c       0x70 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.read_rdata_into_array
+                0x00000000000025ec       0xdc /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.write_wdata_from_array
+                0x00000000000026c8       0xa4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.BaseDebugLibSerialPortConstructor
+                0x000000000000276c       0x84 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.color_tree_cleanup.lto_priv.75
+                0x00000000000027f0       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x00000000000027f0                color_tree_cleanup.lto_priv.75
+ .text.unlikely.addColorBits.lto_priv.76
+                0x0000000000002830       0x60 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002830                addColorBits.lto_priv.76
+ .text.unlikely.lodepng_info_init
+                0x0000000000002890       0x68 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002890                lodepng_info_init
+ .text.unlikely.lodepng_get_raw_size_idat.lto_priv.81
+                0x00000000000028f8       0x4c /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x00000000000028f8                lodepng_get_raw_size_idat.lto_priv.81
+ .text.unlikely.lodepng_get_raw_size
+                0x0000000000002944       0x44 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002944                lodepng_get_raw_size
+ .text.unlikely.lodepng_palette_clear
+                0x0000000000002988       0x2c /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002988                lodepng_palette_clear
+ .text.unlikely.lodepng_info_cleanup
+                0x00000000000029b4      0x11c /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x00000000000029b4                lodepng_info_cleanup
+ .text.unlikely.lodepng_color_mode_equal.lto_priv.74
+                0x0000000000002ad0       0xb4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002ad0                lodepng_color_mode_equal.lto_priv.74
+ .text.unlikely.lodepng_chunk_type_equals
+                0x0000000000002b84       0x84 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002b84                lodepng_chunk_type_equals
+ .text.unlikely.readBitFromReversedStream.lto_priv.82
+                0x0000000000002c08       0x28 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002c08                readBitFromReversedStream.lto_priv.82
+ .text.unlikely.readBitsFromReversedStream.lto_priv.77
+                0x0000000000002c30       0x54 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002c30                readBitsFromReversedStream.lto_priv.77
+ .text.unlikely.lodepng_read32bitInt
+                0x0000000000002c84       0x24 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002c84                lodepng_read32bitInt
+ .text.unlikely.alloc_string.lto_priv.83
+                0x0000000000002ca8       0x54 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002ca8                alloc_string.lto_priv.83
+ .text.unlikely.lodepng_add_text
+                0x0000000000002cfc       0xc8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002cfc                lodepng_add_text
+ .text.unlikely.ucvector_cleanup.lto_priv.78
+                0x0000000000002dc4       0x2c /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002dc4                ucvector_cleanup.lto_priv.78
+ .text.unlikely.ucvector_reserve.lto_priv.80
+                0x0000000000002df0       0x60 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002df0                ucvector_reserve.lto_priv.80
+ .text.unlikely.ucvector_resize.lto_priv.73
+                0x0000000000002e50       0x30 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002e50                ucvector_resize.lto_priv.73
+ .text.DebugPrintLevelEnabled
+                0x0000000000002e80        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002e80                DebugPrintLevelEnabled
+ .text.lv_mem_free
+                0x0000000000002e88       0x6c /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002e88                lv_mem_free
+ .text.lv_fs_close
+                0x0000000000002ef4       0x5c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_img_decoder_close
+                0x0000000000002f50       0x64 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_font_get_width
+                0x0000000000002fb4       0x60 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000002fb4                lv_font_get_width
+ .text.lv_tick_get
+                0x0000000000003014       0x28 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000003014                lv_tick_get
+ .text.lv_tick_elaps
+                0x000000000000303c       0x1c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.DebugPrintEnabled
+                0x0000000000003058        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000003058                DebugPrintEnabled
+ .text.DebugAssertEnabled
+                0x0000000000003060        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000003060                DebugAssertEnabled
+ .text.MicroSecondDelay
+                0x0000000000003068       0x50 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8xxx_is_battery_broken
+                0x00000000000030b8       0xe0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_reset_configure
+                0x0000000000003198       0x44 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_v2_reset_configure
+                0x00000000000031dc       0x4c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8994_reset_configure
+                0x0000000000003228       0x60 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_v2_resin_status
+                0x0000000000003288       0x94 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.DebugAssert
+                0x000000000000331c       0x58 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x000000000000331c                DebugAssert
+ .text.pm8x41_config_output_mpp
+                0x0000000000003374       0x80 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_enable_mpp
+                0x00000000000033f4       0x64 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_enable_mvs
+                0x0000000000003458       0x54 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.DebugPrint
+                0x00000000000034ac       0x88 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x00000000000034ac                DebugPrint
+ .text.lv_log_add
+                0x0000000000003534       0x50 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000003534                lv_log_add
+ .text.lv_img_dsc_get_info
+                0x0000000000003584      0x144 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_img_decoder_open
+                0x00000000000036c8      0x1e8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_mem_alloc.part.0
+                0x00000000000038b0       0xa4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x00000000000038b0                lv_mem_alloc.part.0
+ .text.lv_mem_alloc
+                0x0000000000003954       0x14 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000003954                lv_mem_alloc
+ .text.lv_vdb_get
+                0x0000000000003968       0x60 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_vletter
+                0x00000000000039c8      0x560 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x00000000000039c8                lv_vletter
+ .text.lv_vpx   0x0000000000003f28      0x154 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm_pwm_config
+                0x000000000000407c      0x314 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_wled_enable
+                0x0000000000004390       0xa0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_wled_led_mod_enable
+                0x0000000000004430       0xbc /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_wled_iled_sync_control
+                0x00000000000044ec       0xa0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_wled_sink_control
+                0x000000000000458c       0xa0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_wled_config
+                0x000000000000462c      0x1bc /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_enable_mpp_as_adc
+                0x00000000000047e8       0xc8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_chgr_vdd_max_config
+                0x00000000000048b0       0xc0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_ibat_max_config
+                0x0000000000004970       0xc0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_iusb_max_config
+                0x0000000000004a30       0xec /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.adc_configure
+                0x0000000000004b1c      0x188 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_adc_channel_read
+                0x0000000000004ca4      0x1cc /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_get_batt_voltage
+                0x0000000000004e70       0xa8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_get_voltage_based_soc
+                0x0000000000004f18      0x148 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_ldo_set_voltage.part.0
+                0x0000000000005060       0x94 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_ldo_control
+                0x00000000000050f4       0x50 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_ldo_set_voltage
+                0x0000000000005144       0xe0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_get_is_cold_boot
+                0x0000000000005224      0x138 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_lpg_write_sid
+                0x000000000000535c       0xd4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_gpio_set_sid
+                0x0000000000005430       0xe4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pm8x41_gpio_config_sid
+                0x0000000000005514      0x140 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pmic_arb_read_cmd
+                0x0000000000005654      0x268 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.pmic_arb_write_cmd
+                0x00000000000058bc      0x2ac /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.SpmiImplLibInitialize
+                0x0000000000005b68      0x11c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.TimerConstructor
+                0x0000000000005c84       0x84 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.__memset.lto_priv.88
+                0x0000000000005d08       0x1c /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000005d08                __memset.lto_priv.88
+                0x0000000000005d08                memset
+ .text.lv_ufs_free
+                0x0000000000005d24       0x9c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.__memcpy.lto_priv.87
+                0x0000000000005dc0       0x20 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000005dc0                __memcpy.lto_priv.87
+                0x0000000000005dc0                memcpy
+ .text.unlikely.zlib_decompress.lto_priv.79
+                0x0000000000005de0      0x9a4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000005de0                zlib_decompress.lto_priv.79
+ .text.lv_vmap  0x0000000000006784      0x428 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_vfill
+                0x0000000000006bac      0x288 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_area_copy.lto_priv.95
+                0x0000000000006e34        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_draw_rect
+                0x0000000000006e3c     0x2aac /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_draw_img.part.2
+                0x00000000000098e8       0x78 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_obj_invalidate
+                0x0000000000009960      0x170 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000009960                lv_obj_invalidate
+ .text.lv_group_set_editing
+                0x0000000000009ad0       0x58 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_obj_refresh_style
+                0x0000000000009b28       0x38 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000009b28                lv_obj_refresh_style
+ .text.lv_obj_set_size
+                0x0000000000009b60       0xbc /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_group_mod_style
+                0x0000000000009c1c      0x1b4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_obj_get_style
+                0x0000000000009dd0       0x9c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_img_design.lto_priv.67
+                0x0000000000009e6c      0x604 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x0000000000009e6c                lv_img_design.lto_priv.67
+ .text.lv_img_set_src
+                0x000000000000a470      0x1e4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_img_signal.lto_priv.66
+                0x000000000000a654       0xe8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x000000000000a654                lv_img_signal.lto_priv.66
+ .text.lv_obj_signal.lto_priv.64
+                0x000000000000a73c       0xac /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x000000000000a73c                lv_obj_signal.lto_priv.64
+ .text.lv_obj_design.lto_priv.65
+                0x000000000000a7e8       0xec /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x000000000000a7e8                lv_obj_design.lto_priv.65
+ .text.lv_ufs_read
+                0x000000000000a8d4       0x8c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.node_set_prev.isra.2.lto_priv.85
+                0x000000000000a960       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x000000000000a960                node_set_prev.isra.2.lto_priv.85
+ .text.node_set_next.isra.0.lto_priv.84
+                0x000000000000a9a0       0x44 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x000000000000a9a0                node_set_next.isra.0.lto_priv.84
+ .text.lv_ll_ins_head
+                0x000000000000a9e4       0x78 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x000000000000a9e4                lv_ll_ins_head
+ .text.lv_ll_get_prev
+                0x000000000000aa5c       0x30 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x000000000000aa5c                lv_ll_get_prev
+ .text.lv_group_focus_prev
+                0x000000000000aa8c       0xb0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_refr_obj
+                0x000000000000ab3c      0x180 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_refr_obj_and_children
+                0x000000000000acbc       0xac /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_ll_get_next
+                0x000000000000ad68       0x34 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x000000000000ad68                lv_ll_get_next
+ .text.indev_search_obj
+                0x000000000000ad9c       0xc0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_group_focus_next
+                0x000000000000ae5c       0xb0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_ufs_ent_get
+                0x000000000000af0c       0xd4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_ufs_open
+                0x000000000000afe0      0x138 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_ufs_dir_read
+                0x000000000000b118       0x58 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_ll_rem
+                0x000000000000b170       0xc8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_ufs_remove
+                0x000000000000b238       0x68 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.unlikely.lv_task_exec
+                0x000000000000b2a0       0xa4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.anim_task
+                0x000000000000b344      0x1a0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.unlikely.lv_task_handler
+                0x000000000000b4e4      0x170 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_refr_get_top_obj
+                0x000000000000b654       0xc0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_refr_area_part_vdb
+                0x000000000000b714      0x100 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_refr_task
+                0x000000000000b814      0x2c8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.refresh_childen_style.lto_priv.72
+                0x000000000000badc       0x68 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x000000000000badc                refresh_childen_style.lto_priv.72
+ .text.refresh_childen_position
+                0x000000000000bb44       0x9c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_obj_set_pos
+                0x000000000000bbe0       0xd8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x000000000000bbe0                lv_obj_set_pos
+ .text.indev_proc_release
+                0x000000000000bcb8      0x2d4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.indev_proc_press
+                0x000000000000bf8c      0x390 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.indev_proc_task
+                0x000000000000c31c      0x4b8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_mem_realloc
+                0x000000000000c7d4       0xdc /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x000000000000c7d4                lv_mem_realloc
+ .text.lv_ufs_trunc
+                0x000000000000c8b0       0x70 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_ufs_seek
+                0x000000000000c920       0x8c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.lv_ufs_write
+                0x000000000000c9ac       0xc8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text.unlikely.lv_init
+                0x000000000000ca74      0x730 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .text._ModuleEntryPoint
+                0x000000000000d1a4      0x7d0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                0x000000000000d1a4                _ModuleEntryPoint
+ .text.RtSpmiConvertPointers
+                0x000000000000d974       0x1c /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.InternalAllocatePool
+                0x000000000000d990       0x30 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.BasePrintLibFillBuffer
+                0x000000000000d9c0       0x34 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.AsciiStrnLenS
+                0x000000000000d9f4       0x3c /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.unlikely.unfilter
+                0x000000000000da30      0x294 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.unlikely.Adam7_getpassvalues
+                0x000000000000dcc4      0x12c /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.ReadUnaligned16
+                0x000000000000ddf0       0x68 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.ReadUnaligned32
+                0x000000000000de58       0x5c /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.lv_txt_get_next_line.part.2.constprop.50
+                0x000000000000deb4      0x170 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.lv_txt_get_width.constprop.47
+                0x000000000000e024       0xa0 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.ReadUnaligned64
+                0x000000000000e0c4       0x5c /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.memalign2.constprop.33
+                0x000000000000e120      0x194 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.unlikely.ucvector_push_back.constprop.26
+                0x000000000000e2b4       0x3c /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.unlikely.getPixelColorsRGBA8
+                0x000000000000e2f0      0x4a8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.unlikely.removePaddingBits
+                0x000000000000e798       0xc4 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.FbConFlush
+                0x000000000000e85c       0x54 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.BasePrintLibSPrintMarker.constprop.57
+                0x000000000000e8b0      0xc74 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000e8b0                BasePrintLibSPrintMarker.constprop.57
+ .text.unlikely.BasePrintLibSPrint.constprop.58
+                0x000000000000f524       0x54 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.AsciiSPrint.constprop.55
+                0x000000000000f578       0x64 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000f578                AsciiSPrint.constprop.55
+ .text.unlikely.MultU64x32.constprop.53
+                0x000000000000f5dc        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000f5dc                MultU64x32.constprop.53
+ .text.unlikely.lv_tick_inc.constprop.52
+                0x000000000000f5e4       0x1c /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000f5e4                lv_tick_inc.constprop.52
+ .text.unlikely.lv_obj_align.constprop.51
+                0x000000000000f600       0x74 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000f600                lv_obj_align.constprop.51
+ .text.lv_txt_get_size.constprop.45
+                0x000000000000f674      0x108 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000f674                lv_txt_get_size.constprop.45
+ .text.lv_fs_open.constprop.43
+                0x000000000000f77c      0x134 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000f77c                lv_fs_open.constprop.43
+ .text.unlikely.lv_obj_create.constprop.38
+                0x000000000000f8b0      0x1ac /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000f8b0                lv_obj_create.constprop.38
+ .text.unlikely.lv_img_create.constprop.37
+                0x000000000000fa5c      0x154 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000fa5c                lv_img_create.constprop.37
+ .text.unlikely.lv_indev_drv_init.constprop.23
+                0x000000000000fbb0       0x14 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000fbb0                lv_indev_drv_init.constprop.23
+ .text.unlikely.lv_disp_drv_init.constprop.21
+                0x000000000000fbc4       0x18 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000fbc4                lv_disp_drv_init.constprop.21
+ .text.unlikely.lv_task_create.constprop.18
+                0x000000000000fbdc      0x1ec /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000fbdc                lv_task_create.constprop.18
+ .text.unlikely.InternalGetSectionFromFv.constprop.16
+                0x000000000000fdc8       0x8c /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000fdc8                InternalGetSectionFromFv.constprop.16
+ .text.LibInitializeResetSystem.constprop.14
+                0x000000000000fe54       0xe4 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000fe54                LibInitializeResetSystem.constprop.14
+ .text.CompareGuid.constprop.10
+                0x000000000000ff38       0x64 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000ff38                CompareGuid.constprop.10
+ .text.lv_fs_seek.constprop.1
+                0x000000000000ff9c       0x34 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000ff9c                lv_fs_seek.constprop.1
+ .text.malloc   0x000000000000ffd0        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000ffd0                malloc
+ .text.FreePool
+                0x000000000000ffd8       0x8c /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x000000000000ffd8                FreePool
+ .text.free     0x0000000000010064      0x1ec /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x0000000000010064                free
+ .text.SerialPortWrite
+                0x0000000000010250      0x314 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x0000000000010250                SerialPortWrite
+ .text.MmioWrite32
+                0x0000000000010564       0x54 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x0000000000010564                MmioWrite32
+ .text.MmioRead32
+                0x00000000000105b8       0x4c /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000105b8                MmioRead32
+ .text.AsciiStrLen
+                0x0000000000010604       0xa0 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x0000000000010604                AsciiStrLen
+ .text.AsciiStrSize
+                0x00000000000106a4       0x18 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000106a4                AsciiStrSize
+ .text.AsciiStrCpy
+                0x00000000000106bc       0xc4 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000106bc                AsciiStrCpy
+ .text.CopyMem  0x0000000000010780      0x2a8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x0000000000010780                CopyMem
+ .text.unlikely.realloc
+                0x0000000000010a28      0x17c /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x0000000000010a28                realloc
+ .text.unlikely.uivector_resizev.constprop.29
+                0x0000000000010ba4       0x90 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x0000000000010ba4                uivector_resizev.constprop.29
+ .text.unlikely.lodepng_decode_memory.constprop.25
+                0x0000000000010c34     0x23ac /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .text.unlikely.lodepng_decode32
+                0x0000000000012fe0        0x4 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x0000000000012fe0                lodepng_decode32
+ .text.unlikely.lv_disp_drv_register.constprop.22
+                0x0000000000012fe4       0x8c /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x0000000000012fe4                lv_disp_drv_register.constprop.22
+ .text.lv_draw_label.constprop.0
+                0x0000000000013070      0x170 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x0000000000013070                lv_draw_label.constprop.0
+ .text.unlikely.lv_indev_drv_register.constprop.24
+                0x00000000000131e0       0x80 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000131e0                lv_indev_drv_register.constprop.24
+ .text.ArmReplaceLiveTranslationEntry
+                0x0000000000013260       0xc4 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmMmuLib/ArmMmuBaseLib/OUTPUT/ArmMmuBaseLib.lib(ArmMmuLibReplaceEntry.obj)
+                0x0000000000013260                ArmReplaceLiveTranslationEntry
+                0x0000000000013320                ArmReplaceLiveTranslationEntrySize
+ .text.ArmCacheInfo
+                0x0000000000013324        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                0x0000000000013324                ArmCacheInfo
+ .text.ArmGetInterruptState
+                0x000000000001332c       0x10 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                0x000000000001332c                ArmGetInterruptState
+ .text.ArmEnableInterrupts
+                0x000000000001333c        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                0x000000000001333c                ArmEnableInterrupts
+ .text.ArmDisableInterrupts
+                0x0000000000013348        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                0x0000000000013348                ArmDisableInterrupts
+ .text.ArmCleanDataCacheEntryByMVA
+                0x0000000000013354        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                0x0000000000013354                ArmCleanDataCacheEntryByMVA
+ .text.ArmCleanInvalidateDataCacheEntryByMVA
+                0x000000000001335c        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                0x000000000001335c                ArmCleanInvalidateDataCacheEntryByMVA
+ .text.ArmDataSynchronizationBarrier
+                0x0000000000013364        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                0x0000000000013364                ArmDataSynchronizationBarrier
+ .text.ArmIsArchTimerImplemented
+                0x000000000001336c        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                0x000000000001336c                ArmIsArchTimerImplemented
+ .text.ArmReadCntFrq
+                0x0000000000013374        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+                0x0000000000013374                ArmReadCntFrq
+ .text.ArmReadCntPct
+                0x000000000001337c        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64ArchTimerSupport.obj)
+                0x000000000001337c                ArmReadCntPct
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.lv_img_built_in_decoder_line_indexed
+                0x0000000000013384        0x4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_img_built_in_decoder_line_alpha
+                0x0000000000013388        0x4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_vletter
+                0x000000000001338c        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.CLCL_ORDER
+                0x0000000000013394       0x4c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.CSWTCH.76
+                0x00000000000133e0        0xb /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x00000000000133eb        0x1 
+ .rodata.DISTANCEBASE
+                0x00000000000133ec       0x78 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.DISTANCEEXTRA
+                0x0000000000013464       0x78 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.DebugAssert.str1.1
+                0x00000000000134dc       0x25 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x0000000000013501        0x3 
+ .rodata.LENGTHBASE
+                0x0000000000013504       0x74 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.LENGTHEXTRA
+                0x0000000000013578       0x74 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.SpmiImplLibInitialize.str1.1
+                0x00000000000135ec       0x44 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.TimerConstructor.str1.1
+                0x0000000000013630       0xc5 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                                         0xc7 (size before relaxing)
+ .rodata._ModuleEntryPoint.str1.1
+                0x00000000000136f5      0x293 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                                        0x2af (size before relaxing)
+ .rodata._ModuleEntryPoint.str2.2
+                0x0000000000013988       0x20 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.__func__.2722
+                0x00000000000139a8       0x17 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.__func__.2743
+                0x00000000000139bf       0x14 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.__func__.2826
+                0x00000000000139d3       0x15 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.__func__.2859
+                0x00000000000139e8       0x18 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.adc_configure.str1.1
+                0x0000000000013a00       0x1c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.indev_proc_task.str1.1
+                0x0000000000013a1c       0x6a /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_draw_img.part.2.str1.1
+                0x0000000000013a86       0x20 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_10_cyrillic_glyph_bitmap
+                0x0000000000013aa6      0xb9a /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_10_cyrillic_glyph_dsc
+                0x0000000000014640      0x100 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_10_glyph_bitmap
+                0x0000000000014740      0xe06 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x0000000000015546        0x2 
+ .rodata.lv_font_dejavu_10_glyph_dsc
+                0x0000000000015548      0x17c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_10_latin_sup_glyph_bitmap
+                0x00000000000156c4      0xf3c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_10_latin_sup_glyph_dsc
+                0x0000000000016600      0x180 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_20_cyrillic_glyph_bitmap
+                0x0000000000016780     0x34f8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_20_cyrillic_glyph_dsc
+                0x0000000000019c78      0x100 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_20_glyph_bitmap
+                0x0000000000019d78     0x3ee4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_20_glyph_dsc
+                0x000000000001dc5c      0x17c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_20_latin_sup_glyph_bitmap
+                0x000000000001ddd8     0x43bc /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_20_latin_sup_glyph_dsc
+                0x0000000000022194      0x180 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_30_cyrillic_glyph_bitmap
+                0x0000000000022314     0x70f8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_30_cyrillic_glyph_dsc
+                0x000000000002940c      0x100 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_30_glyph_bitmap
+                0x000000000002950c     0x862e /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x0000000000031b3a        0x2 
+ .rodata.lv_font_dejavu_30_glyph_dsc
+                0x0000000000031b3c      0x17c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_30_latin_sup_glyph_bitmap
+                0x0000000000031cb8     0x9006 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x000000000003acbe        0x2 
+ .rodata.lv_font_dejavu_30_latin_sup_glyph_dsc
+                0x000000000003acc0      0x180 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_40_cyrillic_glyph_bitmap
+                0x000000000003ae40     0xc710 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_40_cyrillic_glyph_dsc
+                0x0000000000047550      0x100 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_40_glyph_bitmap
+                0x0000000000047650     0xe830 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_40_glyph_dsc
+                0x0000000000055e80      0x17c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_40_latin_sup_glyph_bitmap
+                0x0000000000055ffc     0xfa00 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_dejavu_40_latin_sup_glyph_dsc
+                0x00000000000659fc      0x180 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_symbol_10_glyph_bitmap
+                0x0000000000065b7c     0x1090 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_symbol_10_glyph_dsc
+                0x0000000000066c0c       0xc8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_symbol_20_glyph_bitmap
+                0x0000000000066cd4     0x4380 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_symbol_20_glyph_dsc
+                0x000000000006b054       0xc8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_symbol_30_glyph_bitmap
+                0x000000000006b11c     0x9948 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_symbol_30_glyph_dsc
+                0x0000000000074a64       0xc8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_symbol_40_glyph_bitmap
+                0x0000000000074b2c    0x11170 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_font_symbol_40_glyph_dsc
+                0x0000000000085c9c       0xc8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_img_decoder_open.str1.1
+                0x0000000000085d64       0x85 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_img_design.lto_priv.67.str1.1
+                0x0000000000085de9      0x1dc /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_img_dsc_get_info.str1.1
+                0x0000000000085fc5       0x76 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_img_set_src.str1.1
+                0x000000000008603b       0x81 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_img_signal.lto_priv.66.str1.1
+                0x00000000000860bc        0x7 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_init.str1.1
+                0x00000000000860c3       0xa3 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_log_add.str1.1
+                0x0000000000086166       0x12 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_mem_alloc.part.0.str1.1
+                0x0000000000086178       0x64 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_obj_signal.lto_priv.64.str1.1
+                0x00000000000861dc        0x7 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_refr_area_part_vdb.str1.1
+                0x00000000000861e3       0xba /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_ufs_ent_get.str1.1
+                0x000000000008629d       0x6e /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_ufs_open.str1.1
+                0x000000000008630b       0x4b /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_vdb_get.str1.1
+                0x0000000000086356       0xb2 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.lv_vletter.str1.1
+                0x0000000000086408       0x8a /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x0000000000086492        0x6 
+ .rodata.lvl_prefix.1212
+                0x0000000000086498       0x20 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.opa_map.2809
+                0x00000000000864b8        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_adc_channel_read.str1.1
+                0x00000000000864c0       0x1e /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_chgr_vdd_max_config.str1.1
+                0x00000000000864de       0x34 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_config_output_mpp.str1.1
+                0x0000000000086512       0x43 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_enable_mpp_as_adc.str1.1
+                0x0000000000086555       0x2a /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_enable_mvs.str1.1
+                0x000000000008657f        0x4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_get_batt_voltage.str1.1
+                0x0000000000086583       0x1f /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_get_is_cold_boot.str1.1
+                0x00000000000865a2       0x1e /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_get_voltage_based_soc.str1.1
+                0x00000000000865c0       0x71 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_gpio_set_sid.str1.1
+                0x0000000000086631       0x15 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_ibat_max_config.str1.1
+                0x0000000000086646       0x3b /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_iusb_max_config.str1.1
+                0x0000000000086681       0x3b /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_ldo_set_voltage.part.0.str1.1
+                0x00000000000866bc       0x1c /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_lpg_write_sid.str1.1
+                0x00000000000866d8       0x14 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_wled_config.str1.1
+                0x00000000000866ec       0x38 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_wled_enable.str1.1
+                0x0000000000086724       0x15 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_wled_iled_sync_control.str1.1
+                0x0000000000086739       0x18 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_wled_led_mod_enable.str1.1
+                0x0000000000086751       0x20 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm8x41_wled_sink_control.str1.1
+                0x0000000000086771       0x13 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pm_pwm_config.str1.1
+                0x0000000000086784       0x4e /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pmic_arb_read_cmd.str1.1
+                0x00000000000867d2       0x37 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.pmic_arb_write_cmd.str1.1
+                0x0000000000086809       0x61 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x000000000008686a        0x2 
+ .rodata.pt_t   0x000000000008686c       0x30 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.seg1.3668
+                0x000000000008689c        0x1 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.seg2.3669
+                0x000000000008689d        0x2 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.seg3.3670
+                0x000000000008689f        0x3 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.seg4.3671
+                0x00000000000868a2        0x4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.seg5.3672
+                0x00000000000868a6        0x5 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.seg6.3673
+                0x00000000000868ab        0x6 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.seg7.3674
+                0x00000000000868b1        0x7 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.seg8.3675
+                0x00000000000868b8        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.seg_map.3676
+                0x00000000000868c0       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .rodata.str1.1
+                0x0000000000086900       0x10 /tmp/cc8DeYEj.ltrans0.ltrans.o
+                                         0x16 (size before relaxing)
+ .rodata.unfilter
+                0x0000000000086910        0x5 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ *fill*         0x0000000000086915        0x3 
+ .rodata.lodepng_decode_memory.constprop.25
+                0x0000000000086918        0x7 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ *fill*         0x000000000008691f        0x1 
+ .rodata.ADAM7_DX
+                0x0000000000086920       0x1c /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.ADAM7_DY
+                0x000000000008693c       0x1c /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.ADAM7_IX
+                0x0000000000086958       0x1c /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.ADAM7_IY
+                0x0000000000086974       0x1c /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.AsciiSPrint.constprop.55.str1.1
+                0x0000000000086990       0x18 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.AsciiStrCpy.str1.1
+                0x0000000000086990       0x86 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.AsciiStrLen.str1.1
+                0x0000000000086a16       0x4f /tmp/cc8DeYEj.ltrans1.ltrans.o
+                                         0x86 (size before relaxing)
+ .rodata.BasePrintLibSPrintMarker.constprop.57.str1.1
+                0x0000000000086a65      0x176 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.CSWTCH.67.lto_priv.89
+                0x0000000000086bdb        0x7 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x0000000000086bdb                CSWTCH.67.lto_priv.89
+ .rodata.CopyMem.str1.1
+                0x0000000000086be2       0xc6 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.FreePool.str1.1
+                0x0000000000086ca8       0x54 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                                         0x89 (size before relaxing)
+ .rodata.LibInitializeResetSystem.constprop.14.str1.1
+                0x0000000000086cfc       0x22 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.MmioWrite32.str1.1
+                0x0000000000086d1e       0x57 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.ReadUnaligned16.str1.1
+                0x0000000000086d75       0x55 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.free.str1.1
+                0x0000000000086dca       0xeb /tmp/cc8DeYEj.ltrans1.ltrans.o
+ *fill*         0x0000000000086eb5        0x3 
+ .rodata.lodepng_crc32_table
+                0x0000000000086eb8      0x400 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.lodepng_decode_memory.constprop.25.str1.1
+                0x00000000000872b8       0x4b /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.lv_disp_drv_register.constprop.22.str1.1
+                0x0000000000087303       0x4f /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.lv_fs_open.constprop.43.str1.1
+                0x0000000000087303       0x59 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.lv_img_create.constprop.37.str1.1
+                0x0000000000087303        0xe /tmp/cc8DeYEj.ltrans1.ltrans.o
+                                         0x59 (size before relaxing)
+ .rodata.lv_obj_create.constprop.38.str1.1
+                0x0000000000087311       0x14 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                                         0x5f (size before relaxing)
+ .rodata.lv_task_create.constprop.18.str1.1
+                0x0000000000087325       0x4c /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.lv_txt_get_next_line.part.2.constprop.50.str1.1
+                0x0000000000087371        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.mHexStr
+                0x0000000000087379       0x10 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ *fill*         0x0000000000087389        0x7 
+ .rodata.mStatusString
+                0x0000000000087390      0x138 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.memalign2.constprop.33.str1.1
+                0x00000000000874c8       0x7f /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.realloc.str1.1
+                0x0000000000087547       0x94 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .rodata.str1.1
+                0x00000000000875db      0x224 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                                        0x235 (size before relaxing)
+ *(.got .got.*)
+ *:AutoGen.obj(.data.g*Guid)
+
+.iplt           0x0000000000087800        0x0
+ .iplt          0x0000000000087800        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+
+.data           0x0000000000088000    0x28f14
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.adc_data
+                0x0000000000088000       0x24 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.gEfiGraphicsOutputProtocolGuid
+                0x0000000000088024       0x10 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.gEfiLoadedImageProtocolGuid
+                0x0000000000088034       0x10 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.gPreLoaderProtocolGuid
+                0x0000000000088044       0x10 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x0000000000088054        0x4 
+ .data.lv_font_dejavu_10
+                0x0000000000088058       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.lv_font_dejavu_10_cyrillic
+                0x0000000000088098       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.lv_font_dejavu_10_latin_sup
+                0x00000000000880d8       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.lv_font_dejavu_20
+                0x0000000000088118       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.lv_font_dejavu_20_cyrillic
+                0x0000000000088158       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.lv_font_dejavu_20_latin_sup
+                0x0000000000088198       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.lv_font_dejavu_30
+                0x00000000000881d8       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.lv_font_dejavu_30_cyrillic
+                0x0000000000088218       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.lv_font_dejavu_30_latin_sup
+                0x0000000000088258       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.lv_font_dejavu_40
+                0x0000000000088298       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.lv_font_dejavu_40_cyrillic
+                0x00000000000882d8       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.lv_font_dejavu_40_latin_sup
+                0x0000000000088318       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.lv_font_symbol_10
+                0x0000000000088358       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.lv_font_symbol_20
+                0x0000000000088398       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.lv_font_symbol_30
+                0x00000000000883d8       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.lv_font_symbol_40
+                0x0000000000088418       0x40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.mInternalPm8x41
+                0x0000000000088458      0x198 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.mInternalSpmi
+                0x00000000000885f0       0x10 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.vdb      0x0000000000088600       0x10 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .data.vdb_state
+                0x0000000000088610        0x1 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x0000000000088611        0x3 
+ .data.font5x12
+                0x0000000000088614      0x300 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .data.gEfiEventVirtualAddressChangeGuid
+                0x0000000000088914       0x10 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .data.gEfiFirmwareVolume2ProtocolGuid
+                0x0000000000088924       0x10 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x0000000000088924                gEfiFirmwareVolume2ProtocolGuid
+ .data.gEfiHobListGuid
+                0x0000000000088934       0x10 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x0000000000088934                gEfiHobListGuid
+ .data.gUnsupportedImageGuid.lto_priv.111
+                0x0000000000088944       0x10 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x0000000000088944                gUnsupportedImageGuid.lto_priv.111
+ *(.bss .bss.*)
+ .bss.anim_list_changed
+                0x0000000000088954        0x1 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x0000000000088955        0x3 
+ .bss.anim_ll   0x0000000000088958       0x18 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.busy_time.1334
+                0x0000000000088970        0x4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x0000000000088974        0x4 
+ .bss.chnl_tbl  0x0000000000088978        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.decoder_custom
+                0x0000000000088980        0x1 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x0000000000088981        0x3 
+ .bss.decoder_header
+                0x0000000000088984        0x4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.decoder_index_map
+                0x0000000000088988      0x400 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.decoder_src
+                0x0000000000088d88        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.decoder_src_type
+                0x0000000000088d90        0x1 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x0000000000088d91        0x7 
+ .bss.decoder_style
+                0x0000000000088d98        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.file_ll   0x0000000000088da0       0x18 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.gImageHandle
+                0x0000000000088db8        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.gPm8x41   0x0000000000088dc0        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.gST       0x0000000000088dc8        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.gSpmi     0x0000000000088dd0        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.handler_start.1333
+                0x0000000000088dd8        0x4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.idle_period_start.1332
+                0x0000000000088ddc        0x4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.indev_act
+                0x0000000000088de0        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.inited    0x0000000000088de8        0x1 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x0000000000088de9        0x1 
+ .bss.inv_buf   0x0000000000088dea      0x140 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.inv_buf_p
+                0x0000000000088f2a        0x2 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.last_task_run
+                0x0000000000088f2c        0x4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.lv_style_btn_ina
+                0x0000000000088f30       0x50 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.lv_style_btn_pr
+                0x0000000000088f80       0x50 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.lv_style_btn_rel
+                0x0000000000088fd0       0x50 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.lv_style_btn_tgl_pr
+                0x0000000000089020       0x50 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.lv_style_btn_tgl_rel
+                0x0000000000089070       0x50 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.lv_style_pretty
+                0x00000000000890c0       0x50 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.lv_style_pretty_color
+                0x0000000000089110       0x50 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.lv_style_transp
+                0x0000000000089160       0x50 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.lv_style_transp_fit
+                0x00000000000891b0       0x50 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.lv_style_transp_tight
+                0x0000000000089200       0x50 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.lv_task_run
+                0x0000000000089250        0x1 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x0000000000089251        0x7 
+ .bss.mGop      0x0000000000089258        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.mHobList  0x0000000000089260        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.max_peripherals
+                0x0000000000089268        0x4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.mpp_slave_id
+                0x000000000008926c        0x1 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x000000000008926d        0x3 
+ .bss.pmic_arb_chnl_num
+                0x0000000000089270        0x4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.pmic_arb_ver
+                0x0000000000089274        0x4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.px_num    0x0000000000089278        0x4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.spmi_version
+                0x000000000008927c        0x4 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.sys_layer
+                0x0000000000089280        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.task_act  0x0000000000089288        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.task_deleted
+                0x0000000000089290        0x1 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.task_handler_mutex.1331
+                0x0000000000089291        0x1 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x0000000000089292        0x6 
+ .bss.top_layer
+                0x0000000000089298        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.vdb_buf   0x00000000000892a0    0x1fa40 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.wled_slave_id
+                0x00000000000a8ce0        0x1 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ *fill*         0x00000000000a8ce1        0x7 
+ .bss.work_mem  0x00000000000a8ce8        0x8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.work_mem_int
+                0x00000000000a8cf0     0x8000 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .bss.act_scr.lto_priv.99
+                0x00000000000b0cf0        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0cf0                act_scr.lto_priv.99
+ .bss.active.lto_priv.93
+                0x00000000000b0cf8        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0cf8                active.lto_priv.93
+ .bss.ancestor_signal.lto_priv.101
+                0x00000000000b0d00        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0d00                ancestor_signal.lto_priv.101
+ .bss.decoder_file.lto_priv.94
+                0x00000000000b0d08       0x10 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0d08                decoder_file.lto_priv.94
+ .bss.disp_list
+                0x00000000000b0d18        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .bss.drv_ll.lto_priv.108
+                0x00000000000b0d20       0x18 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0d20                drv_ll.lto_priv.108
+ .bss.gBS       0x00000000000b0d38        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0d38                gBS
+ .bss.gRT       0x00000000000b0d40        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0d40                gRT
+ .bss.indev_list.lto_priv.100
+                0x00000000000b0d48        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0d48                indev_list.lto_priv.100
+ .bss.lv_style_plain
+                0x00000000000b0d50       0x50 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0d50                lv_style_plain
+ .bss.lv_style_plain_color
+                0x00000000000b0da0       0x50 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0da0                lv_style_plain_color
+ .bss.lv_style_scr
+                0x00000000000b0df0       0x50 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0df0                lv_style_scr
+ .bss.lv_task_ll.lto_priv.104
+                0x00000000000b0e40       0x18 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0e40                lv_task_ll.lto_priv.104
+ .bss.mDispDrv  0x00000000000b0e58       0x20 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0e58                mDispDrv
+ .bss.mFakeInputDrv
+                0x00000000000b0e78       0x18 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0e78                mFakeInputDrv
+ .bss.mPmicShutdownVirtualAddressChangedEvent
+                0x00000000000b0e90        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .bss.mRuntimeSpmiVirtualAddressChangedEvent
+                0x00000000000b0e98        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .bss.m_Color   0x00000000000b0ea0       0x10 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0ea0                m_Color
+ .bss.m_Initialized
+                0x00000000000b0eb0        0x1 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0eb0                m_Initialized
+ *fill*         0x00000000000b0eb1        0x7 
+ .bss.m_MaxPosition
+                0x00000000000b0eb8       0x10 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0eb8                m_MaxPosition
+ .bss.m_Position
+                0x00000000000b0ec8       0x10 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0ec8                m_Position
+ .bss.pPonPsHoldAddressVirtual.lto_priv.109
+                0x00000000000b0ed8        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0ed8                pPonPsHoldAddressVirtual.lto_priv.109
+ .bss.pResetReasonAddressVirtual.lto_priv.110
+                0x00000000000b0ee0        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0ee0                pResetReasonAddressVirtual.lto_priv.110
+ .bss.pSpmiBaseAddressVirtual
+                0x00000000000b0ee8        0x8 /tmp/cc8DeYEj.ltrans1.ltrans.o
+ .bss.scr_ll.lto_priv.107
+                0x00000000000b0ef0       0x18 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0ef0                scr_ll.lto_priv.107
+ .bss.sys_time.lto_priv.106
+                0x00000000000b0f08        0x4 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0f08                sys_time.lto_priv.106
+ .bss.task_created.lto_priv.103
+                0x00000000000b0f0c        0x1 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0f0c                task_created.lto_priv.103
+ .bss.tick_irq_flag.lto_priv.105
+                0x00000000000b0f0d        0x1 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0f0d                tick_irq_flag.lto_priv.105
+ *fill*         0x00000000000b0f0e        0x2 
+ .bss.zero_mem.lto_priv.102
+                0x00000000000b0f10        0x4 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                0x00000000000b0f10                zero_mem.lto_priv.102
+
+.igot.plt       0x00000000000b0f18        0x0
+ .igot.plt      0x00000000000b0f18        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+
+.eh_frame
+ *(.eh_frame)
+
+.rela           0x00000000000b0f18        0x0
+ *(.rela .rela.*)
+ .rela.iplt     0x00000000000b0f18        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+
+.hii
+ *(.hii)
+
+.build-id       0x00000000000b0f14       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000b0f14       0x24 /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+OUTPUT(/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/PreLoaderDxe/PreLoaderDxe/DEBUG/PreLoaderDxe.dll elf64-littleaarch64)
+
+.debug_info     0x0000000000000000    0x2823f
+ .debug_info    0x0000000000000000    0x1aecc /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .debug_info    0x000000000001aecc     0xd373 /tmp/cc8DeYEj.ltrans1.ltrans.o
+
+.debug_abbrev   0x0000000000000000     0x126d
+ .debug_abbrev  0x0000000000000000      0xa73 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .debug_abbrev  0x0000000000000a73      0x7fa /tmp/cc8DeYEj.ltrans1.ltrans.o
+
+.debug_loc      0x0000000000000000    0x29f3f
+ .debug_loc     0x0000000000000000    0x1af7f /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .debug_loc     0x000000000001af7f     0xefc0 /tmp/cc8DeYEj.ltrans1.ltrans.o
+
+.debug_aranges  0x0000000000000000      0xfc0
+ .debug_aranges
+                0x0000000000000000      0xc70 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000c70      0x350 /tmp/cc8DeYEj.ltrans1.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x7900
+ .debug_ranges  0x0000000000000000     0x55a0 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .debug_ranges  0x00000000000055a0     0x2360 /tmp/cc8DeYEj.ltrans1.ltrans.o
+
+.debug_line     0x0000000000000000     0x7360
+ .debug_line    0x0000000000000000     0x4c29 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .debug_line    0x0000000000004c29     0x2737 /tmp/cc8DeYEj.ltrans1.ltrans.o
+
+.debug_str      0x0000000000000000     0x8021
+ .debug_str     0x0000000000000000     0x650f /tmp/cc8DeYEj.ltrans0.ltrans.o
+                                       0x6ba3 (size before relaxing)
+ .debug_str     0x000000000000650f     0x1b12 /tmp/cc8DeYEj.ltrans1.ltrans.o
+                                       0x4040 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x2e30
+ .debug_frame   0x0000000000000000     0x23b8 /tmp/cc8DeYEj.ltrans0.ltrans.o
+ .debug_frame   0x00000000000023b8      0xa78 /tmp/cc8DeYEj.ltrans1.ltrans.o

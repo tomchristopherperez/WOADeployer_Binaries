@@ -1,0 +1,1132 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memcpy.obj)
+                              /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memcpy)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memset.obj)
+                              /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memset)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (_ModuleEntryPoint)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(AutoGen.obj)
+                              DriverEntryPoint.obj (symbol from plugin) (ProcessLibraryConstructorList)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(FormDisplay.obj)
+                              AutoGen.obj (symbol from plugin) (InitializeDisplayEngine)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(ProcessOptions.obj)
+                              FormDisplay.obj (symbol from plugin) (EmptyEventProcess)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(InputHandler.obj)
+                              ProcessOptions.obj (symbol from plugin) (ReadString)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(Popup.obj)
+                              FormDisplay.obj (symbol from plugin) (CreatePopup)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              InputHandler.obj (symbol from plugin) (MultU64x32)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              InputHandler.obj (symbol from plugin) (LShiftU64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              FormDisplay.obj (symbol from plugin) (InitializeListHead)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              FormDisplay.obj (symbol from plugin) (StrCpyS)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              FormDisplay.obj (symbol from plugin) (StrLen)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              LShiftU64.obj (symbol from plugin) (InternalMathLShiftU64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              SafeString.obj (symbol from plugin) (SwapBytes32)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              SafeString.obj (symbol from plugin) (SwapBytes16)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              SafeString.obj (symbol from plugin) (RShiftU64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              SafeString.obj (symbol from plugin) (DivU64x32)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+                              FormDisplay.obj (symbol from plugin) (ZeroMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
+                              FormDisplay.obj (symbol from plugin) (CompareMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+                              FormDisplay.obj (symbol from plugin) (CopyMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+                              ZeroMemWrapper.obj (symbol from plugin) (InternalMemZeroMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+                              FormDisplay.obj (symbol from plugin) (CopyGuid)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+                              CopyMemWrapper.obj (symbol from plugin) (InternalMemCopyMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+                              MemLibGeneric.obj (symbol from plugin) (InternalMemSetMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              ProcessOptions.obj (symbol from plugin) (UnicodeSPrint)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              PrintLib.obj (symbol from plugin) (BasePrintLibConvertValueToString)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib(DebugLib.obj)
+                              AutoGen.obj (symbol from plugin) (BaseDebugLibSerialPortConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiBootServicesTableLibConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              FormDisplay.obj (symbol from plugin) (AllocateZeroPool)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiRuntimeServicesTableLibConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiLibConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib(HobLib.obj)
+                              AutoGen.obj (symbol from plugin) (HobLibConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib(UefiHiiServicesLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiHiiServicesLibConstructor)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLib.obj)
+                              FormDisplay.obj (symbol from plugin) (HiiAddPackages)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiString.obj)
+                              ProcessOptions.obj (symbol from plugin) (HiiSetString)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLanguage.obj)
+                              HiiString.obj (symbol from plugin) (HiiGetSupportedLanguages)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib(CustomizedDisplayLib.obj)
+                              FormDisplay.obj (symbol from plugin) (FormExitPolicy)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib(CustomizedDisplayLibInternal.obj)
+                              CustomizedDisplayLib.obj (symbol from plugin) (ProcessExternedOpcode)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib(AutoGen.obj)
+                              CustomizedDisplayLib.obj (symbol from plugin) (CustomizedDisplayLibStrings)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              PrintLibInternal.obj (symbol from plugin) (DivU64x32Remainder)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              HiiLib.obj (symbol from plugin) (BitFieldRead32)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              DebugLib.obj (symbol from plugin) (CpuDeadLoop)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              PrintLibInternal.obj (symbol from plugin) (ReadUnaligned16)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+                              DebugLib.obj (symbol from plugin) (CpuBreakpoint)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+                              DebugLib.obj (symbol from plugin) (SetMem)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+                              SetMemWrapper.obj (symbol from plugin) (SetMem64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              DebugLib.obj (symbol from plugin) (GetDebugPrintErrorLevel)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/FrameBufferSerialPortLib/FrameBufferSerialPortLib/OUTPUT/FrameBufferSerialPortLib.lib(FrameBufferSerialPortLib.obj)
+                              DebugLib.obj (symbol from plugin) (SerialPortInitialize)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              HiiLib.obj (symbol from plugin) (DevicePathFromHandle)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              HiiLib.obj (symbol from plugin) (GetDevicePathSize)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertDeviceNodeToText)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertTextToDeviceNode)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              DevicePathFromText.obj (symbol from plugin) (SwapBytes64)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                              FrameBufferSerialPortLib.obj (symbol from plugin) (ArmGetInterruptState)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                              FrameBufferSerialPortLib.obj (symbol from plugin) (ArmEnableInterrupts)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmCacheMaintenanceLib/ArmCacheMaintenanceLib/OUTPUT/ArmCacheMaintenanceLib.lib(ArmCacheMaintenanceLib.obj)
+                              FrameBufferSerialPortLib.obj (symbol from plugin) (WriteBackInvalidateDataCacheRange)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLib.obj)
+                              ArmCacheMaintenanceLib.obj (symbol from plugin) (ArmDataCacheLineLength)
+/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                              ArmCacheMaintenanceLib.obj (symbol from plugin) (ArmInvalidateDataCacheEntryByMVA)
+
+Discarded input sections
+
+ .text          0x0000000000000000       0x10 /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .text          0x0000000000000000        0x0 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.IsNodeInList
+                0x0000000000000000       0xb0 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.__memset
+                0x0000000000000000       0x1c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x2e /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 memcpy.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 memset.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DriverEntryPoint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FormDisplay.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ProcessOptions.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 InputHandler.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Popup.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LinkedList.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SafeString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 String.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Math64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes16.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ZeroMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CompareMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGeneric.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGuid.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMem.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLibInternal.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiBootServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemoryAllocationLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiRuntimeServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HobLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiHiiServicesLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiLanguage.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CustomizedDisplayLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CustomizedDisplayLibInternal.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BitField.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CpuDeadLoop.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Unaligned.obj (symbol from plugin)
+ .text          0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .text          0x0000000000000000        0x0 SetMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FrameBufferSerialPortLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathUtilities.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDevicePathLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathToText.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathFromText.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadMidr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetFiqState
+                0x0000000000000000       0x10 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCpacr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteAuxCr
+                0x0000000000000000       0x28 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadAuxCr
+                0x0000000000000000       0x28 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetTTBR0
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetTTBR0BaseAddress
+                0x0000000000000000       0x30 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetTCR
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetTCR
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmGetMAIR
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmSetMAIR
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmUpdateTranslationTableEntry
+                0x0000000000000000       0x40 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmInvalidateTlb
+                0x0000000000000000       0x38 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCptr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteScr
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteMVBar
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmCallWFE
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmCallSEV
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadCpuActlr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmWriteCpuActlr
+                0x0000000000000000       0x10 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text.ArmReadSctlr
+                0x0000000000000000       0x30 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+ .text          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmIsMpCore
+                0x0000000000000000       0x14 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableAsynchronousAbort
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableAsynchronousAbort
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableIrq
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableIrq
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmEnableFiq
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableFiq
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ArmDisableAllExceptions
+                0x0000000000000000        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ReadCCSIDR
+                0x0000000000000000       0x10 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text.ReadCLIDR
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+ .text          0x0000000000000000        0x0 ArmCacheMaintenanceLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ArmLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .data          0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .bss           0x0000000000000000        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateDataCacheEntryByMVA
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryByMVA
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryToPoUByMVA
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateInstructionCacheEntryToPoUByMVA
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanInvalidateDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCleanDataCacheEntryBySetWay
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInvalidateInstructionCache
+                0x0000000000000000       0x10 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableMmu
+                0x0000000000000000       0x88 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableMmu
+                0x0000000000000000       0x74 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableCachesAndMmu
+                0x0000000000000000       0x6c /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmMmuEnabled
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableDataCache
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableDataCache
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableInstructionCache
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableInstructionCache
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableAlignmentCheck
+                0x0000000000000000       0x58 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableAlignmentCheck
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableStackAlignmentCheck
+                0x0000000000000000       0x58 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableStackAlignmentCheck
+                0x0000000000000000       0x68 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableBranchPrediction
+                0x0000000000000000        0x4 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDisableBranchPrediction
+                0x0000000000000000        0x4 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.AArch64AllDataCachesOperation
+                0x0000000000000000       0xa8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmDataMemoryBarrier
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmInstructionSynchronizationBarrier
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteVBar
+                0x0000000000000000       0x34 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadVBar
+                0x0000000000000000       0x30 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmEnableVFP
+                0x0000000000000000       0x64 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmCallWFI
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadMpidr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadTpidrurw
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteTpidrurw
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmIsArchTimerImplemented
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadIdPfr0
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadIdPfr1
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteHcr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadHcr
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadCurrentEL
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmReadCntHctl
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+ .text.ArmWriteCntHctl
+                0x0000000000000000        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+LOAD /tmp/ccDsDkzN.ltrans0.ltrans.o
+START GROUP
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmCacheMaintenanceLib/ArmCacheMaintenanceLib/OUTPUT/ArmCacheMaintenanceLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Library/FrameBufferSerialPortLib/FrameBufferSerialPortLib/OUTPUT/FrameBufferSerialPortLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib
+LOAD /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib
+END GROUP
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000001000    0x11084
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.DebugPrintLevelEnabled.constprop.36
+                0x0000000000001000        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.InternalAllocatePool.constprop.32
+                0x0000000000001008       0x38 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.SetUnicodeMem.constprop.22
+                0x0000000000001040       0x20 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.MultU64x32.constprop.11
+                0x0000000000001060        0xc /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.GetStringWidth.part.2
+                0x000000000000106c       0x5c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.WaitForKeyStroke
+                0x00000000000010c8       0x78 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.GetFieldFromNum
+                0x0000000000001140       0x40 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.DebugPrintEnabled
+                0x0000000000001180        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.DebugAssertEnabled
+                0x0000000000001188        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.BasePrintLibFillBuffer
+                0x0000000000001190       0x34 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.AsciiStrnLenS
+                0x00000000000011c4       0x3c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.InternalSafeStringNoStrOverlap
+                0x0000000000001200       0x3c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.EmptyEventProcess
+                0x000000000000123c        0x4 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.HiiValueToUINT64
+                0x0000000000001240       0x50 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.DriverClearDisplayPage
+                0x0000000000001290       0x54 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.SetDisplayAttribute
+                0x00000000000012e4       0x58 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.BaseDebugLibSerialPortConstructor
+                0x000000000000133c       0x84 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.FbConFlush
+                0x00000000000013c0       0x54 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.SerialPortWrite
+                0x0000000000001414      0x314 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.DebugAssert
+                0x0000000000001728       0x58 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.WriteUnaligned16
+                0x0000000000001780       0x5c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.WriteUnaligned32
+                0x00000000000017dc       0x64 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.WriteUnaligned64
+                0x0000000000001840       0x64 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.ReadUnaligned16
+                0x00000000000018a4       0x68 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.ReadUnaligned32
+                0x000000000000190c       0x5c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.LibGetStringWidth
+                0x0000000000001968       0x50 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.CopyMem  0x00000000000019b8      0x2a8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.InternalAllocateCopyPool.constprop.26
+                0x0000000000001c60       0x8c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.CompareMem
+                0x0000000000001cec       0xfc /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.AsciiStrLen
+                0x0000000000001de8       0xa0 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.AsciiStrnCmp
+                0x0000000000001e88       0xf0 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.StrLen   0x0000000000001f78       0xbc /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.StrSize  0x0000000000002034       0x1c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.StrCmp   0x0000000000002050       0x98 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.StrnLenS
+                0x00000000000020e8       0x7c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.BasePrintLibSPrintMarker.constprop.40
+                0x0000000000002164      0xe68 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.unlikely.BasePrintLibSPrint.constprop.41
+                0x0000000000002fcc       0x54 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.DebugPrint.constprop.37
+                0x0000000000003020       0x80 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.HiiRemovePackages
+                0x00000000000030a0       0xac /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.FreePool
+                0x000000000000314c       0x78 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.AsciiSPrint.constprop.38
+                0x00000000000031c4       0x68 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.UnicodeVSPrint
+                0x000000000000322c       0x9c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.UnicodeSPrint
+                0x00000000000032c8       0x50 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.PrintFormattedNumber.constprop.9
+                0x0000000000003318       0xa8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.StrCatS  0x00000000000033c0      0x224 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.StrnCpyS
+                0x00000000000035e4      0x214 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.StrCpyS  0x00000000000037f8      0x1cc /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.NewStrCat
+                0x00000000000039c4       0x30 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.InitializeListHead
+                0x00000000000039f4        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.InternalBaseLibIsListValid
+                0x00000000000039fc       0xb8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.IsListEmpty
+                0x0000000000003ab4       0x5c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.RemoveEntryList
+                0x0000000000003b10       0x64 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.GetFirstNode
+                0x0000000000003b74       0x54 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.IsNull   0x0000000000003bc8       0x5c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.GetNextNode
+                0x0000000000003c24       0x58 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.InsertTailList
+                0x0000000000003c7c       0x6c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.InsertHeadList
+                0x0000000000003ce8       0x68 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.SwapListEntries
+                0x0000000000003d50       0xc0 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.LShiftU64
+                0x0000000000003e10        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.ReadUnaligned64
+                0x0000000000003e18       0x68 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.CompareGuid
+                0x0000000000003e80       0x5c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.CopyGuid
+                0x0000000000003edc       0x4c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.ZeroMem  0x0000000000003f28      0x118 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.AllocateZeroPool
+                0x0000000000004040       0x34 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.GetBestLanguage.constprop.30
+                0x0000000000004074      0x188 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.PrintAt  0x00000000000041fc      0x2bc /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.PrintCharAt
+                0x00000000000044b8       0x1c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.PrintStringAtWithWidth
+                0x00000000000044d4       0x20 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.PrintHotKeyHelpString
+                0x00000000000044f4      0x224 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.PrintStringAt
+                0x0000000000004718       0x1c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.UpdateStatusBar
+                0x0000000000004734      0x170 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.DisplayMenuString
+                0x00000000000048a4       0x94 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.RefreshKeyHelp
+                0x0000000000004938      0x674 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.ProcessUserOpcode
+                0x0000000000004fac      0x160 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.ClearLines
+                0x000000000000510c       0xdc /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.CreateDialog
+                0x00000000000051e8      0x434 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.ConfirmDataChange
+                0x000000000000561c       0xc4 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.RefreshTimeOutProcess
+                0x00000000000056e0       0x98 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.HiiGetSupportedLanguages
+                0x0000000000005778       0xc0 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.HiiGetString.constprop.27
+                0x0000000000005838      0x224 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.LibGetToken
+                0x0000000000005a5c       0x74 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.HiiSetString.constprop.15
+                0x0000000000005ad0      0x164 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.HiiAddPackages
+                0x0000000000005c34      0x194 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.AddOneSelectableOption
+                0x0000000000005dc8       0xf0 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.GetLineByWidth
+                0x0000000000005eb8      0x230 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.ProcessHelpString.constprop.4
+                0x00000000000060e8      0x13c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.UpdateSkipInfoForMenu
+                0x0000000000006224       0xb4 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.SetValuesByType
+                0x00000000000062d8       0x8c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.GetNumericInput
+                0x0000000000006364      0xe18 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.SetArrayData
+                0x000000000000717c       0x94 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.GetArrayData
+                0x0000000000007210       0x98 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.GetIndexInfoForOpcode
+                0x00000000000072a8       0xd4 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.UpdateHighlightMenuInfo
+                0x000000000000737c      0x248 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.FindHighLightMenuOption
+                0x00000000000075c4      0x210 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.AdjustDateAndTimePosition
+                0x00000000000077d4      0x12c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.GetStringWidth
+                0x0000000000007900       0x50 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.CreateMultiStringPopUp.constprop.13
+                0x0000000000007950      0x2bc /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.ParseMessageString.part.0
+                0x0000000000007c0c      0x114 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.CreatePopup
+                0x0000000000007d20      0xbe4 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.ReadString
+                0x0000000000008904      0x7e4 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.GetToken
+                0x00000000000090e8       0x74 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.CompareHiiValue.constprop.8
+                0x000000000000915c      0x260 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.ValueToOption
+                0x00000000000093bc      0x108 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.GetSelectionInputPopUp
+                0x00000000000094c4      0xc8c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.ProcessOptions
+                0x000000000000a150     0x10d4 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.IsSelectable
+                0x000000000000b224       0xf0 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.UpdateOptionSkipLines
+                0x000000000000b314       0x90 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.FindTopOfScreenMenuOption
+                0x000000000000b3a4      0x1ec /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.FindTopOfScreenMenu
+                0x000000000000b590      0x100 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.MoveToNextStatement
+                0x000000000000b690      0x16c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.GetWidth
+                0x000000000000b7fc      0x140 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.DisplayOneMenu
+                0x000000000000b93c      0x630 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.UiAddMenuOption
+                0x000000000000bf6c      0x28c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.FormDisplay
+                0x000000000000c1f8     0x3440 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text.ProcessLibraryDestructorList
+                0x000000000000f638       0xfc /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x000000000000f734      0x2c8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .text._ModuleEntryPoint
+                0x000000000000f9fc      0xc48 /tmp/ccDsDkzN.ltrans0.ltrans.o
+                0x000000000000f9fc                _ModuleEntryPoint
+ .text.__memcpy
+                0x0000000000010644       0x20 /tmp/ccDsDkzN.ltrans0.ltrans.o
+                0x0000000000010644                memcpy
+ .text.ArmCacheInfo
+                0x0000000000010664        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                0x0000000000010664                ArmCacheInfo
+ .text.ArmGetInterruptState
+                0x000000000001066c       0x10 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupport.obj)
+                0x000000000001066c                ArmGetInterruptState
+ .text.ArmEnableInterrupts
+                0x000000000001067c        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                0x000000000001067c                ArmEnableInterrupts
+ .text.ArmDisableInterrupts
+                0x0000000000010688        0xc /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(ArmLibSupportV8.obj)
+                0x0000000000010688                ArmDisableInterrupts
+ .text.ArmCleanInvalidateDataCacheEntryByMVA
+                0x0000000000010694        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                0x0000000000010694                ArmCleanInvalidateDataCacheEntryByMVA
+ .text.ArmDataSynchronizationBarrier
+                0x000000000001069c        0x8 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+                0x000000000001069c                ArmDataSynchronizationBarrier
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.HiiValueToUINT64
+                0x00000000000106a4        0x7 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x00000000000106ab        0x1 
+ .rodata.AddOneSelectableOption
+                0x00000000000106ac        0x4 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.SetValuesByType
+                0x00000000000106b0        0x5 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x00000000000106b5        0x3 
+ .rodata.SetArrayData
+                0x00000000000106b8        0x4 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.GetArrayData
+                0x00000000000106bc        0x4 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.CompareHiiValue.constprop.8
+                0x00000000000106c0       0x18 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.GetSelectionInputPopUp
+                0x00000000000106d8        0x5 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x00000000000106dd        0x3 
+ .rodata.ProcessOptions
+                0x00000000000106e0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.FormDisplay
+                0x00000000000106e8       0x32 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.AsciiStrLen.str1.1
+                0x000000000001071a       0x6f /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.AsciiStrnCmp.str1.1
+                0x0000000000010789       0x70 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.BasePrintLibSPrintMarker.constprop.40.str1.1
+                0x00000000000107f9      0x202 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.CSWTCH.197
+                0x00000000000109fb        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.CompareMem.str1.1
+                0x0000000000010a03       0x87 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.CopyMem.str1.1
+                0x0000000000010a8a       0xc6 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.CreatePopup.str1.1
+                0x0000000000010b50       0x47 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x0000000000010b97        0x1 
+ .rodata.CreatePopup.str2.2
+                0x0000000000010b98        0xe /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                         0x16 (size before relaxing)
+ .rodata.DebugAssert.str1.1
+                0x0000000000010ba6       0x26 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.DebugPrint.constprop.37.str1.1
+                0x0000000000010bcc       0x21 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.DisplayMenuString.str2.2
+                0x0000000000010bed        0xe /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                          0x2 (size before relaxing)
+ .rodata.FindHighLightMenuOption.str1.1
+                0x0000000000010bed       0x17 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.FormDisplay.str1.1
+                0x0000000000010c04      0x1f6 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.GetBestLanguage.constprop.30.str1.1
+                0x0000000000010dfa       0x5b /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.GetFirstNode.str1.1
+                0x0000000000010e55       0x22 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.GetIndexInfoForOpcode.str1.1
+                0x0000000000010e77       0x4d /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.GetNumericInput.str1.1
+                0x0000000000010ec4       0xd5 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x0000000000010f99        0x1 
+ .rodata.GetNumericInput.str2.2
+                0x0000000000010f9a       0x14 /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                         0x18 (size before relaxing)
+ .rodata.GetSelectionInputPopUp.str1.1
+                0x0000000000010fae       0x76 /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                         0x90 (size before relaxing)
+ .rodata.HiiGetString.constprop.27.str1.1
+                0x0000000000011024       0x68 /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                         0x69 (size before relaxing)
+ .rodata.HiiGetString.constprop.27.str2.2
+                0x000000000001108c       0x1a /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.HiiGetSupportedLanguages.str1.1
+                0x00000000000110a6       0x45 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.HiiRemovePackages.str1.1
+                0x00000000000110eb       0x54 /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                         0x6e (size before relaxing)
+ .rodata.HiiSetString.constprop.15.str1.1
+                0x000000000001113f        0x7 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.InternalAllocateCopyPool.constprop.26.str1.1
+                0x0000000000011146       0x93 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.InternalBaseLibIsListValid.str1.1
+                0x00000000000111d9       0x7c /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                         0x91 (size before relaxing)
+ .rodata.IsListEmpty.str1.1
+                0x0000000000011255       0x26 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.IsNodeInList.str1.1
+                0x000000000001127b       0x44 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.IsSelectable.str1.1
+                0x00000000000112bf       0x1d /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.LibGetStringWidth.str1.1
+                0x00000000000112dc       0x60 /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                         0x77 (size before relaxing)
+ .rodata.PrintAt.str1.1
+                0x000000000001133c        0xd /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                         0x14 (size before relaxing)
+ *fill*         0x0000000000011349        0x1 
+ .rodata.PrintCharAt.str2.2
+                0x000000000001134a        0x6 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.PrintFormattedNumber.constprop.9.str2.2
+                0x0000000000011350       0x12 /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                         0x1a (size before relaxing)
+ .rodata.PrintHotKeyHelpString.str1.1
+                0x0000000000011362       0x15 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.PrintStringAtWithWidth.str2.2
+                0x0000000000011377       0x12 /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                          0x6 (size before relaxing)
+ .rodata.ProcessHelpString.constprop.4.str1.1
+                0x0000000000011377       0x71 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.ProcessOptions.str1.1
+                0x00000000000113e8       0x18 /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                         0x33 (size before relaxing)
+ .rodata.ProcessOptions.str2.2
+                0x0000000000011400        0xa /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                         0x10 (size before relaxing)
+ .rodata.ProcessUserOpcode.str1.1
+                0x000000000001140a       0x1c /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.ReadString.str1.1
+                0x0000000000011426       0x1a /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.RefreshKeyHelp.str1.1
+                0x0000000000011440       0x71 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x00000000000114b1        0x1 
+ .rodata.RefreshKeyHelp.str2.2
+                0x00000000000114b2       0x16 /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                         0x24 (size before relaxing)
+ .rodata.RefreshTimeOutProcess.str2.2
+                0x00000000000114c8        0x6 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.RemoveEntryList.str1.1
+                0x00000000000114ce       0x15 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.SetArrayData.str1.1
+                0x00000000000114e3       0x15 /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                         0x16 (size before relaxing)
+ .rodata.SetValuesByType.str1.1
+                0x00000000000114e3       0x60 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.StrCatS.str1.1
+                0x0000000000011543      0x14d /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.StrCmp.str1.1
+                0x0000000000011690       0x37 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.StrLen.str1.1
+                0x00000000000116c7       0x5d /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.StrnCpyS.str1.1
+                0x0000000000011724       0x55 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.StrnLenS.str1.1
+                0x0000000000011779       0x3b /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.UiAddMenuOption.str1.1
+                0x00000000000117b4        0xe /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                         0x19 (size before relaxing)
+ .rodata.UnicodeVSPrint.str1.1
+                0x00000000000117c2       0x8d /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.UpdateHighlightMenuInfo.str1.1
+                0x000000000001184f       0x5a /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x00000000000118a9        0x1 
+ .rodata.UpdateStatusBar.str2.2
+                0x00000000000118aa        0x6 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.WriteUnaligned16.str1.1
+                0x00000000000118b0       0x3e /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                         0x55 (size before relaxing)
+ .rodata.ZeroMem.str1.1
+                0x00000000000118ee       0x7b /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata._ModuleEntryPoint.str1.1
+                0x0000000000011969      0x30a /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x0000000000011c73        0x1 
+ .rodata._ModuleEntryPoint.str2.2
+                0x0000000000011c74        0x4 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdFrontPageFormSetGuid
+                0x0000000000011c78       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.gScanCodeToOperation
+                0x0000000000011c88       0x38 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.gScreenOperationToControlFlag
+                0x0000000000011cc0       0x50 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.mEndOfPakageList
+                0x0000000000011d10        0x4 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.mHexStr
+                0x0000000000011d14       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x0000000000011d24        0x4 
+ .rodata.mStatusString
+                0x0000000000011d28      0x138 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .rodata.str1.1
+                0x0000000000011e60      0x224 /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                        0x235 (size before relaxing)
+ *(.got .got.*)
+ *:AutoGen.obj(.data.g*Guid)
+
+.iplt           0x0000000000012084        0x0
+ .iplt          0x0000000000012084        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+
+.data           0x0000000000013000     0x2508
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.CustomizedDisplayLibStrings
+                0x0000000000013000      0x6ea /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.DisplayEngineStrings
+                0x00000000000136ea     0x15c6 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.font5x12
+                0x0000000000014cb0      0x300 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.gCustomizedDisplayLibGuid
+                0x0000000000014fb0       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.gDisplayEngineGuid
+                0x0000000000014fc0       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.gEdkiiFormBrowserEx2ProtocolGuid
+                0x0000000000014fd0       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.gEdkiiFormDisplayEngineProtocolGuid
+                0x0000000000014fe0       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.gEfiGlobalVariableGuid
+                0x0000000000014ff0       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.gEfiHiiConfigRoutingProtocolGuid
+                0x0000000000015000       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.gEfiHiiDatabaseProtocolGuid
+                0x0000000000015010       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.gEfiHiiFontProtocolGuid
+                0x0000000000015020       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.gEfiHiiImageProtocolGuid
+                0x0000000000015030       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.gEfiHiiPopupProtocolGuid
+                0x0000000000015040       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.gEfiHiiStringProtocolGuid
+                0x0000000000015050       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.gEfiHobListGuid
+                0x0000000000015060       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.gEfiIfrTianoGuid
+                0x0000000000015070       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.gEfiLoadedImageProtocolGuid
+                0x0000000000015080       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.gLibIsFirstForm
+                0x0000000000015090        0x1 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .data.mIsFirstForm
+                0x0000000000015091        0x1 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x0000000000015092        0x6 
+ .data.mPrivateData
+                0x0000000000015098       0x38 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *(.bss .bss.*)
+ .bss.gAdjustNumber
+                0x00000000000150d0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gAreYouSure
+                0x00000000000150d8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gBS       0x00000000000150e0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gBannerData
+                0x00000000000150e8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gBrowserError
+                0x00000000000150f0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gCancelOption
+                0x00000000000150f8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gChangesOpt
+                0x0000000000015100        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gCheckError
+                0x0000000000015108        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gClassOfVfr
+                0x0000000000015110        0x2 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x0000000000015112        0x6 
+ .bss.gConfirmDefaultMsg
+                0x0000000000015118        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmDefaultMsg2nd
+                0x0000000000015120        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmDiscardMsg
+                0x0000000000015128        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmError
+                0x0000000000015130        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmExitMsg
+                0x0000000000015138        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmExitMsg2nd
+                0x0000000000015140        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmMsgConnect
+                0x0000000000015148        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmMsgEnd
+                0x0000000000015150        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmOpt
+                0x0000000000015158        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmOptCancel
+                0x0000000000015160        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmOptNo
+                0x0000000000015168        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmOptOk
+                0x0000000000015170        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmOptYes
+                0x0000000000015178        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmPassword
+                0x0000000000015180        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmResetMsg
+                0x0000000000015188        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmResetMsg2nd
+                0x0000000000015190        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmSubmitMsg
+                0x0000000000015198        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gConfirmSubmitMsg2nd
+                0x00000000000151a0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gDecNumericInput
+                0x00000000000151a8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gDirection
+                0x00000000000151b0        0x2 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x00000000000151b2        0x6 
+ .bss.gDiscardChange
+                0x00000000000151b8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gEmptyString
+                0x00000000000151c0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gEnterCommitString
+                0x00000000000151c8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gEnterEscapeString
+                0x00000000000151d0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gEnterString
+                0x00000000000151d8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gErrorPopup
+                0x00000000000151e0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gEscapeString
+                0x00000000000151e8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gFooterHeight
+                0x00000000000151f0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gFormData
+                0x00000000000151f8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gFormNotFound
+                0x0000000000015200        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gFormSuppress
+                0x0000000000015208        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gHelpBlockWidth
+                0x0000000000015210        0x2 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x0000000000015212        0x6 
+ .bss.gHexNumericInput
+                0x0000000000015218        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gHighligthMenuInfo
+                0x0000000000015220       0x48 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gHiiConfigRouting
+                0x0000000000015268        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gHiiDatabase
+                0x0000000000015270        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gHiiFont  0x0000000000015278        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gHiiHandle
+                0x0000000000015280        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gHiiImage
+                0x0000000000015288        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gHiiString
+                0x0000000000015290        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gImageHandle
+                0x0000000000015298        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gInfoPopup
+                0x00000000000152a0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gInputErrorMessage
+                0x00000000000152a8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gJumpToFormSet
+                0x00000000000152b0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gLibEmptyString
+                0x00000000000152b8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gMaxRowWidth
+                0x00000000000152c0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gMenuOption
+                0x00000000000152c8       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gMesStrLineNum
+                0x00000000000152d8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gMessageString
+                0x00000000000152e0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gMiniString
+                0x00000000000152e8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gMinusString
+                0x00000000000152f0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gMisMatch
+                0x00000000000152f8        0x1 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x00000000000152f9        0x1 
+ .bss.gModalSkipColumn
+                0x00000000000152fa        0x2 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x00000000000152fc        0x4 
+ .bss.gMoveHighlight
+                0x0000000000015300        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gNoOption
+                0x0000000000015308        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gNoResponse
+                0x0000000000015310        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gNoSubmitIf
+                0x0000000000015318        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gNoSubmitIfFailed
+                0x0000000000015320        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gNvUpdateMessage
+                0x0000000000015328        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gOkOption
+                0x0000000000015330        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gOldFormEntry
+                0x0000000000015338       0x38 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gOptionBlockWidth
+                0x0000000000015370        0x2 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x0000000000015372        0x6 
+ .bss.gOptionMismatch
+                0x0000000000015378        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gPassowordInvalid
+                0x0000000000015380        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gPasswordUnsupported
+                0x0000000000015388        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gPlusString
+                0x0000000000015390        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gPopupDimensions
+                0x0000000000015398       0x20 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gPressEnter
+                0x00000000000153b8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gPromptBlockWidth
+                0x00000000000153c0        0x2 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x00000000000153c2        0x6 
+ .bss.gPromptForData
+                0x00000000000153c8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gPromptForNewPassword
+                0x00000000000153d0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gPromptForPassword
+                0x00000000000153d8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gProtocolNotFound
+                0x00000000000153e0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gRT       0x00000000000153e8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gReconnectConfirmChanges
+                0x00000000000153f0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gReconnectFail
+                0x00000000000153f8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gReconnectRequired
+                0x0000000000015400        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gST       0x0000000000015408        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gSaveChanges
+                0x0000000000015410        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gSaveFailed
+                0x0000000000015418        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gSaveNoSubmitProcess
+                0x0000000000015420        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gSaveProcess
+                0x0000000000015428        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gScreenDimensions
+                0x0000000000015430       0x20 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gStatementDimensions
+                0x0000000000015450       0x20 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gToggleCheckBox
+                0x0000000000015470        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gUserInput
+                0x0000000000015478        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gUserSelectableOptions
+                0x0000000000015480       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gWarningPopup
+                0x0000000000015490        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gYesOption
+                0x0000000000015498        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.gYesResponse
+                0x00000000000154a0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.mCDLStringPackHandle
+                0x00000000000154a8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.mHobList  0x00000000000154b0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.mLibUnknownString
+                0x00000000000154b8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.mSpaceBuffer
+                0x00000000000154c0        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.mUnknownString
+                0x00000000000154c8        0x8 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.m_Color   0x00000000000154d0       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.m_Initialized
+                0x00000000000154e0        0x1 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ *fill*         0x00000000000154e1        0x7 
+ .bss.m_MaxPosition
+                0x00000000000154e8       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+ .bss.m_Position
+                0x00000000000154f8       0x10 /tmp/ccDsDkzN.ltrans0.ltrans.o
+
+.igot.plt       0x0000000000015508        0x0
+ .igot.plt      0x0000000000015508        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+
+.eh_frame
+ *(.eh_frame)
+
+.rela           0x0000000000015508        0x0
+ *(.rela .rela.*)
+ .rela.iplt     0x0000000000015508        0x0 /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/ArmBaseLib.lib(AArch64Support.obj)
+
+.hii
+ *(.hii)
+
+.build-id       0x0000000000015508       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000015508       0x24 /home/vsts/work/1/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+OUTPUT(/home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/DEBUG/DisplayEngine.dll elf64-littleaarch64)
+
+.debug_info     0x0000000000000000    0x17157
+ .debug_info    0x0000000000000000    0x17157 /tmp/ccDsDkzN.ltrans0.ltrans.o
+
+.debug_abbrev   0x0000000000000000      0x74e
+ .debug_abbrev  0x0000000000000000      0x74e /tmp/ccDsDkzN.ltrans0.ltrans.o
+
+.debug_loc      0x0000000000000000    0x19912
+ .debug_loc     0x0000000000000000    0x19912 /tmp/ccDsDkzN.ltrans0.ltrans.o
+
+.debug_aranges  0x0000000000000000      0x7a0
+ .debug_aranges
+                0x0000000000000000      0x7a0 /tmp/ccDsDkzN.ltrans0.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x2630
+ .debug_ranges  0x0000000000000000     0x2630 /tmp/ccDsDkzN.ltrans0.ltrans.o
+
+.debug_line     0x0000000000000000     0x38dc
+ .debug_line    0x0000000000000000     0x38dc /tmp/ccDsDkzN.ltrans0.ltrans.o
+
+.debug_str      0x0000000000000000     0x5363
+ .debug_str     0x0000000000000000     0x5363 /tmp/ccDsDkzN.ltrans0.ltrans.o
+                                       0x5c63 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x19e0
+ .debug_frame   0x0000000000000000     0x19e0 /tmp/ccDsDkzN.ltrans0.ltrans.o

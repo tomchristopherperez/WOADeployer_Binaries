@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_DXE_DEPEX -o /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/FV/Ffs/3a19a112-06cc-45a4-b3e2-9c1dfd2b6a68LiCE40SpiConfigDxe/3a19a112-06cc-45a4-b3e2-9c1dfd2b6a68SEC1.1.dpx /home/vsts/work/1/edk2/Build/Lumia950XL-AARCH64/DEBUG_GCC5/AARCH64/Lumia950XLPkg/Driver/LiCE40SpiConfigDxe/LiCE40SpiConfigDxe/OUTPUT/LiCE40SpiConfigDxe.depex
